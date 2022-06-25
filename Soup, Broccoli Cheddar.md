@@ -1,4 +1,4 @@
-# Soup, Broccoli Cheddar
+# Broccoli Cheddar Soup
 
 * 1 bunch **broccoli** *(separated)*
   * **stems** *(finely chopped)*
