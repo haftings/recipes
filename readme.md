@@ -4,6 +4,6 @@ A collection of my recipes.
 
 To do:
 
-* Enchiladas
+* Beef Stroganoff
 * Meatloaf
 * Spaghetti & Meat Sauce
