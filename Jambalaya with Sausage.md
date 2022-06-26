@@ -15,7 +15,7 @@
 * 1⁄8 tsp **garlic powder**
 * 1⁄8 tsp **cayenne** powder
 * **bay leaf**
-* 1 cup **rice** *(long grain or parboiled)*
+* 1 cup **rice** *(dry, long grain or parboiled)*
 * 3 **green onions** **(sliced)*
 
 1. Pre-heat oven to **325 °F**

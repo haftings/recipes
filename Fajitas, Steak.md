@@ -19,7 +19,7 @@ Optional
 * **pico de gallo**
 * **sour cream**
 * **guacamole**
-* cooked **rice**
+* **rice** *(cooked)*
 
 1. Mix **spices** with **juice** from **lime** and **2 Tbsp olive oil**
 1. Add **flank steak** *(pre-slice if not marinading overnight)*

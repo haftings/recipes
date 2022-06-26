@@ -4,7 +4,7 @@ Rice
 * 2 cups **water**
 * 1⁄2 tsp **salt**
 * 1 Tbsp **butter**
-* 1 cup dry **rice**
+* 1 cup white **rice** *(dry)*
 
 Sauce
 * 2 cloves **garlic** *(minced)*

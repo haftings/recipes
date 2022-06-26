@@ -20,14 +20,14 @@ Stew (**1 hr 10 min** – **2 hr**)
    </span>
 1. Add **cabbage** and **mushrooms**
 1. Steam **5 min** – **10 min**
-1. Serve over rice
+1. Serve over **rice**
 
 Rice (**30 min**)
 
 * 2 cups **water**
 * 1 1⁄2 Tbsp **butter**
 * 1 tsp **salt**
-* 1 cup jasmine **rice**
+* 1 cup jasmine **rice** *(dry)*
 
 1. Boil **water**, **butter**, and **salt** in a sauce pan
 1. Add **rice**, mix, and **simmer** covered for **22 min**

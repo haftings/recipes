@@ -10,7 +10,7 @@ Weinersnitchel
 
 Good With
 * **BBQ sauce**
-* white **rice**
+* white **rice** *(cooked)*
 * mashed potatoes or cauliflower
 * sautéd **green beans**
 
