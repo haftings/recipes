@@ -7,7 +7,7 @@ Stew (**1 hr 10 min** – **2 hr**)
 * salt & pepper
 * 1 can Campbell's™ **golden mushroom soup**
 * 1 1⁄2 cups **water**
-* 1⁄2 cup **yello onion** *(sliced)*
+* 1⁄2 cup **yellow onion** *(sliced)*
 * 2 Tbsp **soy sauce**
 * 6 cups **cabbage** *(1" pieces)*
 * *(optional)* 8 oz **mushrooms** *(sliced)*

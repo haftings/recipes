@@ -1,7 +1,7 @@
 # Chicken Pad Thai *(UNTESTED)*
 
 * 8 oz **rice noodles** *(bahn pho or sen-mee)*
-* 1⁄4 cup salted peanuts *(finely chopped)*
+* 1⁄4 cup salted **peanuts** *(finely chopped)*
 * 1⁄2 tsp **lime zest**
 * 2 Tbsp **lime juice**
 * 3 Tbsp **fish sauce**
