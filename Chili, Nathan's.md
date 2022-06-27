@@ -2,13 +2,15 @@
 
 Spices
 * 1 Tbsp **chili** powder
+* 1 Tbsp **cocoa** powder
+* 1 Tbsp **brown sugar**
 * 1 tsp **cumin**
 * 1 tsp smoked **paprika**
 * 1 tsp **salt**
 * 1⁄2 tsp **pepper** *(~15 cranks)*
 * 1⁄2 tsp **onion** powder
 * 1⁄4 tsp **garlic** powder
-* 1⁄4 tsp **cayenne**
+* 1⁄4 tsp **cayenne** *(optional)*
 
 Main Ingredients
 * 2 Tbsp **olive oil**
