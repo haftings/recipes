@@ -1,5 +1,6 @@
 # Steak Fajitas
 
+Marinade
 * 1 tsp **salt**
 * 1/2 tsp **pepper**
 * 1/2 tsp **oregano**
@@ -8,8 +9,11 @@
 * 1/2 tsp **paprika**
 * 1 tsp **chili powder**
 * 1 large **lime**
-* **olive oil**
+* 2 Tbsp **olive oil**
+
+Main Ingredients
 * 1 lb beef **flank steak**
+* **olive oil**
 * 1 **green bell pepper** *(sliced)*
 * 1 **red** or **yellow bell pepper** *(sliced)*
 * 1 medium **yellow onion** *(sliced)*
@@ -21,7 +25,7 @@ Optional
 * **guacamole**
 * **rice** *(cooked)*
 
-1. Mix **spices** with **juice** from **lime** and **2 Tbsp olive oil**
+1. Mix together **marinade**
 1. Add **flank steak** *(pre-slice if not marinading overnight)*
 1. Marinate in fridge for:
    * **Whole**: **overnight**
