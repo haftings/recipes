@@ -1,10 +1,11 @@
 # Chicken Pot Pie
 
-* 2 refridgerated **9" pie shells**
+* 2 refrigerated **9" pie shells**
 * 1⁄3 cup **butter**
 * 1⁄3 cup **onion** *(chopped)*
 * 1 clove **garlic** *(minced)*
-* 1⁄2 tsp dry **thyme** *(ground)*
+* several sprigs fresh **thyme** *(minced)*
+* several sprigs fresh **rosemary** *(minced)*
 * 1⁄3 cup **flour**
 * 1 tsp **salt**
 * 1⁄2 tsp **pepper**
@@ -17,7 +18,7 @@
 1. Pre-heat oven to **425 °F**
 1. Pan fry and shred **chicken**
 1. Melt **butter** in med saucepan
-1. Add **onion**, **garlic*, and **thyme**
+1. Add **onion**, **garlic*, **thyme**, and **rosemary**
 1. Cook on med heat ~ **2 min** stirring frequently
 1. Stir in **flour**, **salt** and **pepper** until well blended
 1. Slowly stir in **broth** and **milk**, stirring constantly
