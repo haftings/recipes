@@ -7,4 +7,3 @@ To do:
 * Beef Stroganoff
 * Macaroni Casserole
 * Meatloaf
-* Stew, Nathan's Beef Stew
