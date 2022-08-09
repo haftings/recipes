@@ -3,7 +3,6 @@
     <head>
         <meta charset="utf-8">
         <title>Recipes</title>
-            <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
     </head>
     <body>
         <select id="ls" onchange="show_recipe(this.value)">
@@ -27,6 +26,9 @@
             
             console.log(paths);
         }))
+    </script>
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+    <script>
         show_recipe = path => {
             if (path) fetch(path).then(r => r.text().then(text => {
                 var ingredients = ''
