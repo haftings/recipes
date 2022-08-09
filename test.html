@@ -1,0 +1,44 @@
+<!doctype html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Recipes</title>
+            <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+    </head>
+    <body>
+        <select id="ls" onchange="show_recipe(this.value)">
+            <option value="">Select a recipe...</option>
+        </select>
+        <div id="content">Content goes here...</div>
+    </body>
+    <script>
+        fetch('https://api.github.com/repos/haftings/recipes/git/trees/main').then(r => r.json().then(data => {
+            var select = document.getElementById('ls')
+            var paths = [];
+            for (const i of data.tree) {
+                var r = /(.*)\.md$/.exec(i.path)
+                if (r && !/readme\.md$/i.exec(i.path)) {
+                    var option = document.createElement('option')
+                    option.value = r[0]
+                    option.text = r[1]
+                    select.append(option)
+                }
+            }
+            
+            console.log(paths);
+        }))
+        show_recipe = path => {
+            if (path) fetch(path).then(r => r.text().then(text => {
+                var ingredients = ''
+                var content = document.getElementById('content')
+                content.innerHTML = marked.parse(text)
+                for (const i of content.querySelectorAll('ul>li strong')) {
+                    ingredients += i.innerText + '\n'
+                }
+                navigator.clipboard.writeText(ingredients)
+            }))
+            else document.getElementById('content').innerHTML = ''
+
+        }
+    </script>
+</html>
