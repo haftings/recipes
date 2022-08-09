@@ -8,7 +8,10 @@
         <select id="ls" onchange="show_recipe(this.value)">
             <option value="">Select a recipe...</option>
         </select>
-        <div id="content">Content goes here...</div>
+        <button onclick="copy_ingredients(document.getElementById('content'))">
+            Copy Ingredients
+        </button>
+        <div id="content"><br>Select a recipe above...</div>
     </body>
     <script>
         // start of marked - a markdown parser - Copyright (c) 2011-2022, Christopher Jeffrey. (MIT Licensed) - https://github.com/markedjs/marked //
@@ -30,17 +33,33 @@
             
             console.log(paths);
         }))
+        // TODO Add buttons for [copy bolded ingredients] and [copy full ingredients list]
+        // TODO Add link in readme.md
+        // TODO Add simple listing (actual list) for when none are selected
+        // TODO Add search feature (e.g. by name)
+        // TODO Handle bold/italic better (e.g. '1 1/2 Tbsp **foo** or **bar** *(chopped)*' -> 'foo or bar'
+        li2text = li => {
+            var text = ''
+            for (const i of li.childNodes) {
+                if (i.tagName != 'EM') {
+                    text += i.data || i.innerText
+                }
+            }
+            return text.replace('⁄', '/')
+        }
+        copy_ingredients = div => {
+            text = ''
+            for (const li of div.querySelectorAll('ul>li'))
+                text += li2text(li) + '\n'
+            navigator.clipboard.writeText(text)
+        }
         show_recipe = path => {
             if (path) fetch(path).then(r => r.text().then(text => {
                 var ingredients = ''
                 var content = document.getElementById('content')
                 content.innerHTML = marked.parse(text)
-                for (const i of content.querySelectorAll('ul>li strong')) {
-                    ingredients += i.innerText + '\n'
-                }
-                navigator.clipboard.writeText(ingredients)
             }))
-            else document.getElementById('content').innerHTML = ''
+            else document.getElementById('content').innerHTML = '<br>Select a recipe above...'
 
         }
     </script>
