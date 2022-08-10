@@ -3,6 +3,7 @@
     <head>
         <meta charset="utf-8">
         <title>Recipes</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1">
     </head>
     <body>
         <select id="ls" onchange="show_recipe(this.value)">
@@ -33,11 +34,8 @@
             
             console.log(paths);
         }))
-        // TODO Add buttons for [copy bolded ingredients] and [copy full ingredients list]
-        // TODO Add link in readme.md
         // TODO Add simple listing (actual list) for when none are selected
         // TODO Add search feature (e.g. by name)
-        // TODO Handle bold/italic better (e.g. '1 1/2 Tbsp **foo** or **bar** *(chopped)*' -> 'foo or bar'
         li2text = li => {
             var text = ''
             for (const i of li.childNodes) {
