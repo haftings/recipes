@@ -4,6 +4,7 @@
         <meta charset="utf-8">
         <title>Recipes</title>
         <meta name="viewport" content="width=device-width, initial-scale=1">
+        <!-- TODO Add search feature (e.g. by name) -->
         <style>
             body {
                 font-family: ui-sans-serif, sans-serif; font-size: 12pt;
@@ -40,22 +41,20 @@
                     select.append(option)
                 }
             }
-            
-            console.log(paths);
         }))
+        re_ammount = /([\d./ \t&]+|(\b|(?<=\d))(and|bit|clove|cup|dashe?|each|ea|gallon|gal|glug|gram|g|liter|lb?|ounce|oz|package|pack|pk|part|pt|piece|pc|pint|pound|quart|serving|splashe?|taste|tablespoon|tb?sp|teaspoon|touche?|to)s?\b)+/gi
+        re_stock = /\b(water|butter|flour|sugar|((jasmine|white) *)?rice|(olive *)?oil|(kosher *)?(table *)?salt|(ground *)?(black *)?pepper)\b/gi
         li2text = li => {
             var text = ''
-            for (const i of li.childNodes) {
-                if (i.tagName != 'EM') {
-                    text += i.data || i.innerText
-                }
-            }
-            return text.replace('⁄', '/')
+            for (const i of li.childNodes) if (i.tagName != 'EM') text += i.data || i.innerText
+            text = text.replace('⁄', '/').replace(/[ \t]+/g, ' ').trim()
+            var ingredients = text.toLowerCase().replace(re_ammount, ' ').replace(/  +/, ' ').trim()
+            return ingredients.replace(re_stock, ' ').trim() ? text + '\n' : ''
         }
         copy_ingredients = div => {
             text = ''
             for (const li of div.querySelectorAll('ul>li'))
-                text += li2text(li) + '\n'
+                text += li2text(li)
             navigator.clipboard.writeText(text)
         }
         show_recipe = path => {
@@ -67,10 +66,9 @@
                 }))
             } else {
                 document.getElementById('content').innerHTML = '<br>Select a recipe above...'
-                // TODO Add simple listing (actual list) for when none are selected
-                // TODO Add search feature (e.g. by name)
             }
 
         }
+        show_recipe('https://raw.githubusercontent.com/haftings/recipes/main/Stew,%20Nathan\'s.md')
     </script>
 </html>
