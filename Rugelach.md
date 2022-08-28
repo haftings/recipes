@@ -1,4 +1,4 @@
-# Rugelach *(UNTESTED)*
+# Rugelach
 
 Dough
 * 1½ cups **butter** *(softened)*

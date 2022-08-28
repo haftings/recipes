@@ -1,4 +1,4 @@
-# Pickles, Bread & Butter *(UNTESTED)*
+# Pickles, Bread & Butter
 
 * 2 lbs pickling **cucumbers** *(ends removed, sliced)*
 * 1/2 **yellow onion** *(sliced)*

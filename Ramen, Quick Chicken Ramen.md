@@ -1,4 +1,4 @@
-# Ramen, Quick Chicken Ramen *(UNTESTED)*
+# Ramen, Quick Chicken Ramen
 
 Chicken
 
