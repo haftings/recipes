@@ -1,23 +1,28 @@
 # Tomato Soup *(UNTESTED)*
 
-* 1 Tbsp **butter**
-* 1 Tbsp **olive oil**
-* 1 **onion** *(thinly sliced)*
-* 2 cloves **garlic** *(crushed)*
-* 56 oz canned **whole peeled tomatoes**
-* 1 cup **water**
-* 1 Tbsp **sugar**
-* 1 tsp **salt**
-* **pepper** to taste
-* 1 pinch **red pepper flakes**
-* 1⁄4 tsp **celery seed**
-* 1⁄4 tsp dried **oregano**
-* *(optional)* **basil** *(chopped)*
+Ingredients
 
-1. Sauté **onion** and **garlic** in **butter** and **oil** in pan on **medium-low** ~ **5 min**
-1. Add **tomatoes**, **water**, **sugar**, **salt**, **pepper**, **red pepper flakes**, **celery seed**, and **oregano**
-1. Bring to boil, cover, simmer for **15 min**, remove from heat
-1. Remove from heat
-1. Purée with immersion blender
-1. Reheat until warm
-1. Serve with **salt**, **pepper**, and **basil** to taste
+* 1 oz – 2 oz **butter** *(to taste)*
+* 1 med **onion** *(chopped)*
+* 1/2 **fennel bulb** *(chopped)* *(use larger onion if missing)*
+* ~ 2 tsp **pepper**
+* 1/2 tsp **celery seeds**
+* 2 Tbsp **flour**
+* 28 oz **canned whole tomatoes**
+* **salt** *(to taste)*
+* **water** *(as needed)*
+* ∅ – 1/4 cup **vinegar** *(optional, to taste)*
+* ∅ – 1 Tbsp **tomato paste** *(optional, to taste)*
+* ∅ – 1 Tbsp **sugar** *(optional, to taste)*
+
+Instructions
+
+1. Lightly sauté **onion** and **fennel** in **butter** ~ **5 min** to soften but not brown
+1. Stir in **pepper**, **celery seeds**, and **flour**
+1. Cook and stir another ~ **2 min** until roux forms but does **not** brown
+1. Add **tomatoes**, squish any big ones to cook faster
+1. Simmer ≥ **30 min**, stirring/scraping occasionally, adding **water** as needed
+1. Purée soup with immersion blender
+1. Add (a lot of) **salt** and **water** to taste
+1. Add **vineger**, **tomato paste**, and/or **sugar** to taste
+1. Garnish with optional **basil** or **fennel fronds**
