@@ -46,16 +46,28 @@
             }
         }))
         // define ammounts and stock ingredients to ignore when copying ingredients
-        re_ammount = /([\d./ \t&]+|(\b|(?<=\d))(and|bit|clove|cup|dashe?|each|ea|gallon|gal|glug|gram|g|liter|lb?|ounce|oz|package|pack|pk|part|pt|piece|pc|pint|pound|quart|serving|splashe?|taste|tablespoon|tb?sp|teaspoon|touche?|to)s?\b)+/gi
-        re_stock = /\b(water|butter|flour|sugar|((jasmine|white) *)?rice|(olive *)?oil|(kosher *)?(table *)?salt|(ground *)?(black *)?pepper)\b/gi
+        re_number = /[\d.\/ \t&]+/g
+        re_words = new RegExp((
+                '\\b('
+                // ammounts
+                + 'and|bit|clove|cup|dashe?|each|ea|gallon|gal|glug|gram|g'
+                + '|liter|lb?|ounce|oz|package|pack|pk|part|pt|piece|pc|pint'
+                + '|pound|quart|serving|splashe?|taste'
+                + '|tablespoon|tb?sp|teaspoon|touche?|to'
+                // stock ingredients
+                + '|water|butter|flour|sugar|((jasmine|white) *)?rice'
+                + '|(olive *)?oil|(kosher *)?(table *)?salt'
+                + '|(ground *)?(black *)?pepper'
+                + ')s?\\b'
+        ), 'gi')
         // convert list item to ingredient line
         li2text = li => {
             var text = ''
             for (const i of li.childNodes) if (i.tagName != 'EM') text += i.data || i.innerText
             text = text.replace('⁄', '/').replace(/[ \t]+/g, ' ').trim() + '\n'
             if (document.getElementById('stock').checked) return text
-            var ingredients = text.toLowerCase().replace(re_ammount, ' ').replace(/  +/, ' ').trim()
-            return ingredients.replace(re_stock, ' ').trim() ? text : ''
+            var ingredients = text.toLowerCase().replace(re_number, ' ').replace(/  +/, ' ').replace(re_words, ' ').trim()
+            return ingredients ? text : ''
         }
         // gather ingredient list and copy to clipboard
         copy_ingredients = div => {
