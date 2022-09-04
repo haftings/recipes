@@ -20,6 +20,7 @@ Other Ingredients
 * 2 **hoagies** *(halved)*
 * 1/4 lb sliced **provolone cheese**
 * 1/4 lb sliced **ham**
+* 1/4 lb sliced **Genoa salami**
 * 1/8 lb sliced **pepperoni**
 * 1/2 small **green pepper** *(thinly sliced)*
 * handful of [**pickled onions**](Pickled%20Onions.md)
