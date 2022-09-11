@@ -28,8 +28,8 @@ Filling
 * 1 tsp **Worcestershire sauce**
 * 2 tsp fresh **rosemary** *(minced)*
 * 1 tsp fresh **thyme** *(minced)*
-* 1/2 cup frozen **peas**
-* 1/2 cup frozen **corn**
+* 1⁄2 cup frozen **peas**
+* 1⁄2 cup frozen **corn**
 
 1. Pre-heat oven to **400 °F**
 1. Sauté **onion** and **carrots** in **oil** for **3 min** – **4 min**

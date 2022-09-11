@@ -14,9 +14,9 @@
 * 1 **bay leaf**
 * 1 tsp **salt**
 * 1 tsp **pepper** *(fresh ground)*
-* 1/2 tsp **onion powder**
-* 1/4 tsp **garlic powder**
-* *(optional)* 1/2 tbsp **beef base**
+* 1⁄2 tsp **onion powder**
+* 1⁄4 tsp **garlic powder**
+* *(optional)* 1⁄2 tbsp **beef base**
 * **flour** and **butter**
 
 1. Brown **beef** with salt and pepper, remove to plate

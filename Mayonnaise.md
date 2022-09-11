@@ -3,7 +3,7 @@
 Ingredients
 
 * 1 large **egg**
-* 1 Tbsp **lemon juice** *(~ 1/2 lemon)*
+* 1 Tbsp **lemon juice** *(~ 1⁄2 lemon)*
 * 1 tsp **Dijon mustard**
 * 1 clove **garlic** *(coarsely crushed)*
 * *(optional)* extra mayo **herbs & spices**

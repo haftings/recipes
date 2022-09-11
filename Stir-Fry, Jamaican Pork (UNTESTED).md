@@ -1,4 +1,6 @@
-# Jamaican Pork Stir-Fry *(UNTESTED)*
+# Jamaican Pork Stir-Fry
+
+Ingredients
 
 * 2 cups **water**
 * 1 Tbsp **butter**
@@ -14,6 +16,8 @@
 * 2 tsp – 3 tsp **Jamaican jerk** seasoning
 * 3⁄4 cup **plum sauce**
 * **peanuts** *(chopped)*
+
+Instructions
 
 1. Boil **water** with **butter** and **salt**
 1. Add **rice**, simmer **22 min** *(continue other steps while boiling)*

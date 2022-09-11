@@ -2,11 +2,11 @@
 
 Marinade
 * 1 tsp **salt**
-* 1/2 tsp **pepper**
-* 1/2 tsp **oregano**
+* 1⁄2 tsp **pepper**
+* 1⁄2 tsp **oregano**
 * 1 tsp **garlic powder**
 * 1 tsp **cumin**
-* 1/2 tsp **paprika**
+* 1⁄2 tsp **paprika**
 * 1 tsp **chili powder**
 * 1 large **lime**
 * 2 Tbsp **olive oil**

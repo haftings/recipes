@@ -3,9 +3,9 @@
 Patties
 * 19 oz **ground turkey**
 * 4 oz canned **green chiles** *(diced)*
-* 1/2 tsp **cumin**
-* 1/4 tsp **garlic powder**
-* 1/4 tsp **salt**
+* 1⁄2 tsp **cumin**
+* 1⁄4 tsp **garlic powder**
+* 1⁄4 tsp **salt**
 * 2-3 **green onions** *(sliced)*
 * 2 oz **pepper jack cheese** *(shredded)*
 

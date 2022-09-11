@@ -3,10 +3,10 @@
 Dressing
 
 * 1 Tbsp **olive oil**
-* 1/2 Tbsp **red wine vinegar**
-* 1/8 tsp **sambal oelek** sauce
-* 1/2 tsp **oregano**
-* 1/8 tsp **garlic powder**
+* 1⁄2 Tbsp **red wine vinegar**
+* 1⁄8 tsp **sambal oelek** sauce
+* 1⁄2 tsp **oregano**
+* 1⁄8 tsp **garlic powder**
 * salt & pepper
 
 Garlic Mayo
@@ -18,13 +18,13 @@ Other Ingredients
 
 * 1 – 2 cups crunchy **lettuce** *(thinly sliced)*
 * 2 **hoagies** *(halved)*
-* 1/4 lb sliced **provolone cheese**
-* 1/4 lb sliced **ham**
-* 1/4 lb sliced **Genoa salami**
-* 1/8 lb sliced **pepperoni**
-* 1/2 small **green pepper** *(thinly sliced)*
+* 1⁄4 lb sliced **provolone cheese**
+* 1⁄4 lb sliced **ham**
+* 1⁄4 lb sliced **Genoa salami**
+* 1⁄8 lb sliced **pepperoni**
+* 1⁄2 small **green pepper** *(thinly sliced)*
 * handful of [**pickled onions**](Pickled%20Onions.md)
-* 1/2 **tomato** *(thinly sliced, lightly **salted**)*
+* 1⁄2 **tomato** *(thinly sliced, lightly **salted**)*
 * wax paper or parchement paper
 
 Instructions

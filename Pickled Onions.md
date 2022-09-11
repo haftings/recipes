@@ -5,7 +5,7 @@ Ingredients
 * 1 large **red onion** *(sliced lengthwise)*
 * 1 – 2 cloves **garlic** *(crushed and minced)*
 * 1 cup filtered **water**
-* 1/2 cup white or apple cider **vinegar**
+* 1⁄2 cup white or apple cider **vinegar**
 * 2 Tbsp **sugar**
 * 1 tsp **salt**
 * 1 tsp whole black **peppercorn**

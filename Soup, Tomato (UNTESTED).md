@@ -1,17 +1,17 @@
-# Tomato Soup *(UNTESTED)*
+# Tomato Soup
 
 Ingredients
 
 * 1 oz – 2 oz **butter** *(to taste)*
 * 1 med **onion** *(chopped)*
-* 1/2 **fennel bulb** *(chopped)* *(use larger onion if missing)*
+* 1⁄2 **fennel bulb** *(chopped)* *(use larger onion if missing)*
 * ~ 2 tsp **pepper**
-* 1/2 tsp **celery seeds**
+* 1⁄2 tsp **celery seeds**
 * 2 Tbsp **flour**
 * 28 oz **canned whole tomatoes**
 * **salt** *(to taste)*
 * **water** *(as needed)*
-* ∅ – 1/4 cup **vinegar** *(optional, to taste)*
+* ∅ – 1⁄4 cup **vinegar** *(optional, to taste)*
 * ∅ – 1 Tbsp **tomato paste** *(optional, to taste)*
 * ∅ – 1 Tbsp **sugar** *(optional, to taste)*
 

@@ -7,9 +7,9 @@
 * 14 oz **chicken broth**
 * 1 medium **potato** *(peeled, cubed)*
 * 2 Tbsp **flour**
-* 1/2 tsp **salt**
-* 1/4 tsp **pepper**
-* 1 1/2 cups **milk**
+* 1⁄2 tsp **salt**
+* 1⁄4 tsp **pepper**
+* 1 1⁄2 cups **milk**
 * 2 Tbsp **bacon bits** *(from 3 cooked slices)*
 
 1. If using fresh corn, then cut kernels off cobs

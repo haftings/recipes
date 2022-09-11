@@ -1,9 +1,9 @@
-# Pickles, Dill *(UNTESTED)*
+# Pickles, Dill
 
 Ingredients
 
 * 1 cup **water**
-* 3/4 cup **vinegar**, White or Apple Cider
+* 3⁄4 cup **vinegar**, White or Apple Cider
 * 1 Tbsp **salt**
 * 1 lb **cucumbers**, Persian or Kirby *(ends trimmed, creatively sliced)*
 * 3 cloves **garlic** *(crushed)*

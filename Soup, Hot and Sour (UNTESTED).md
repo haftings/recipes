@@ -1,11 +1,11 @@
-# Hot and Sour Soup *(UNTESTED)*
+# Hot and Sour Soup
 
 Ingredients
 
-* 3/4 oz **dried shiitake mushrooms** *(rehydrated, thinly sliced)*
+* 3⁄4 oz **dried shiitake mushrooms** *(rehydrated, thinly sliced)*
 * 2 Tbsp **soy sauce** *(+ more to taste)*
-* 1/4 cup **rice vinegar**
-* 1/4 tsp **sesame oil**
+* 1⁄4 cup **rice vinegar**
+* 1⁄4 tsp **sesame oil**
 * 1 tsp **white pepper** *(to taste)*
 * 3 Tbsp **cornstarch**
 * 3 Tbsp water

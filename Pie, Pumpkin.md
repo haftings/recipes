@@ -17,7 +17,7 @@ Streusel Topping
 
 * 2 1⁄2 Tbsp **flour**
 * 1⁄4 cup packed **brown sugar**
-* 1 1/2 tsp ground **cinnamon**
+* 1⁄2 Tbsp ground **cinnamon**
 * 2 Tbsp **cold butter**
 * 1 cup chopped  **walnuts**
 

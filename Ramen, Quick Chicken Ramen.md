@@ -16,7 +16,7 @@ Broth
 * 2 **carrots** *(julienned)*
 * 4 oz **shiitake mushrooms** *(halved)*
 * 1 tsp **sesame oil**
-* 1/2 tsp **salt**
+* 1⁄2 tsp **salt**
 
 Toppings
 

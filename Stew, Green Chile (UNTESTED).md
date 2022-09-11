@@ -1,20 +1,19 @@
-# Stew, Green Chile *(UNTESTED)*
-
+# Stew, Green Chile
 Soup
 
 * 1 Tbsp **olive oil**
 * 1.5 lbs boneless **pork shoulder** *(trimmed, 1" cubes)*
-* 1/4 cup **flour**
-* 1/4 tsp **salt**
-* 1/8 tsp **pepper**
-* 1/2 **yellow onion** *(diced)*
+* 1⁄4 cup **flour**
+* 1⁄4 tsp **salt**
+* 1⁄8 tsp **pepper**
+* 1⁄2 **yellow onion** *(diced)*
 * 2 cloves **garlic** *(minced)*
 * 14 oz can **diced tomatoes** *(fire-roasted)*
-* 1/2 **jalapeño** *(seeded, diced)*
-* 1 1/4 cups **green chiles** *(roasted, peeled, seeded, chopped)*
+* 1⁄2 **jalapeño** *(seeded, diced)*
+* 1 1⁄4 cups **green chiles** *(roasted, peeled, seeded, chopped)*
 * 16 oz **chicken stock**
 * 1 tsp **salt**
-* 1/2 tsp **pepper**
+* 1⁄2 tsp **pepper**
 
 Optional Sides
 

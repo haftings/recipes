@@ -1,4 +1,4 @@
-# Sausage with Sauerkraut *(UNTESTED)*
+# Sausage with Sauerkraut
 
 Ingredients
 
@@ -6,14 +6,14 @@ Ingredients
 * 2 cloves **garlic** *(minced)*
 * 2 small **yellow onions** *(sliced)*
 * 1.5 cup **kielbasa sausage** *(chunks)*
-* 1/2 cup **ham** *(diced)*
+* 1⁄2 cup **ham** *(diced)*
 * 3 cups **sauerkraut** *(rinsed & drained)*
 * 8 oz **chicken broth**
 * 1 Tbsp **tomato paste**
-* 1/2 tsp **nutmeg**
-* 1/2 tsp **cumin**
-* 1/2 tsp **pepper**
-* 1/2 cup **Parmesan cheese** *(grated)*
+* 1⁄2 tsp **nutmeg**
+* 1⁄2 tsp **cumin**
+* 1⁄2 tsp **pepper**
+* 1⁄2 cup **Parmesan cheese** *(grated)*
 
 Instructions
 
