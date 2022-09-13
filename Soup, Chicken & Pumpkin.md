@@ -13,7 +13,7 @@
 * 1⁄2 tsp **salt**
 * 1⁄2 bunch fresh **cilantro** *(roughly chopped)*
 
-1. Suaté **onion** and **garlic** in **oil** on **medium** (**3 min** – **5 min**)
+1. Sauté **onion** and **garlic** in **oil** on **medium** (**3 min** – **5 min**)
 1. Add whole **chicken breasts** and **broth**
 1. Cover and boil; simmer for **30 min**
 1. Remove and shred **chicken**, then return it to pot

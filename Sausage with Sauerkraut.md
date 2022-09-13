@@ -20,7 +20,7 @@ Instructions
 1. Pre-heat oven to **350 °F**
 1. Sauté **garlic** and **onions** ~ 5 min, set asside
 1. Sauté **sausage** ~ 5 min, set asside
-1. Suaté **ham** ~ 3 min
+1. Sauté **ham** ~ 3 min
 1. Add back **sausage** and **onions**, mix
 1. Add **sauerkraut**, **broth**, **tomato paste**, and **spices**
 1. Simmer **30 min**, stirring ocassionally
