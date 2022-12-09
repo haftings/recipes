@@ -2,7 +2,7 @@
 
 Ingredients
 
-* 12 **mushrooms** *(stems separately removed and chopped)*
+* 1 lb cremini **mushrooms** *(stems separately removed and chopped)*
 * 1/2 **shallot** *(minced)*
 * 1 Tbsp **garlic** *(minced)*
 * 1 Tbsp **olive oil**
