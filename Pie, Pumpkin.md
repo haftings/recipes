@@ -4,7 +4,7 @@ Pumpkin Pie
 * 15 oz can **pumpkin puree**
 * 14 oz **sweetened condensed milk**
 * 2 **eggs**
-* 1⁄4 tsp cream of tartar
+* 1⁄4 tsp **cream of tartar**
 * 2 tsp **cinnamon**
 * 1⁄2 tsp salt
 * 1⁄2 tsp allspice *(ground)*
