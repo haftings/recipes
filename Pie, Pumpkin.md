@@ -4,6 +4,7 @@ Pumpkin Pie
 * 15 oz can **pumpkin puree**
 * 14 oz **sweetened condensed milk**
 * 2 **eggs**
+* 1⁄4 tsp **cream of tartar**
 * 2 tsp **cinnamon**
 * 1⁄2 tsp salt
 * 1⁄2 tsp allspice *(ground)*
@@ -22,11 +23,12 @@ Streusel Topping
 * 1 cup chopped  **walnuts**
 
 1. Preheat oven to **425 °F**
+1. Prepare **pie crust**
 1. Mix spices
-1. **Separate eggs**
-1. Mix **yolks**, **pumpkin**, **condensed milk**, and **spices** in a large bowl
-1. Whip **whites** to form medium peaks in a small bowl
-1. **Fold egg whites** into mixture
+1. Separate **eggs**, placing yolks in a large mixing bowl and whites in a small mixing bowl
+1. Mix **egg yolks**, **pumpkin**, **condensed milk**, and **spices** in the large bowl
+1. Whip **egg whites** with **cream of tartar** to form medium peaks in the small bowl
+1. Fold **whipped egg whites** into mixture
 1. Pour filling into **pie shells**
 1. Cover pie edges with **aluminum foil**
 1. Bake **15 min**, and make **streusel** topping
