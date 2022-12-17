@@ -1,6 +1,6 @@
 # Lettuce Wraps, Beef and Pork
 
-Sauce Ingredients
+Sauce Ingredients *(makes enough for 2 recipes)*
 
 * 1/2 **red chilli** *(thinly sliced)*
 * 1 Tbsp **olive oil**
@@ -18,7 +18,7 @@ Main Ingredients
 * 8 oz **ground pork**
 * 1 Tbsp toasted **sesame oil**
 * 2 cloves **garlic** *(finely chopped)*
-* 2" fresh **ginger** *(finely chopped)*
+* 1" fresh **ginger** *(finely chopped)*
 * 1.5 **red chillies** *(chopped, no seeds)*
 * 1 Tbsp light **brown sugar**
 * 1 Tbsp **fish sauce**
@@ -31,7 +31,7 @@ Instructions
 
 1. Mix **sauce** ingredients
 1. Mix **beef** and **pork**, season with **salt** and **pepper**
-1. Stir-fry in **olive oil** on high heat **5 – 7 min**, until crisp and brown
+1. Stir-fry in **olive oil** on high heat **5 – 7 min**, until lightly browned
 1. Drain, set aside
 1. Sauté **garlic**, **ginger**, **chilli**, **sugar**, and pinch of **salt** in **sesame oil** for **2 min**
 1. Stir in **meat** and **fish sauce**, heat through
