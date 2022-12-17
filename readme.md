@@ -2,4 +2,4 @@
 
 A collection of my recipes.
 
-Please see the [HTML Viewer and Ingredient Copy/Paste Tool](https://htmlpreview.github.io/?https://github.com/haftings/recipes/blob/main/index.html).
+Please see the [fancy viewer and ingredient copy/paste tool](https://haftings.github.io/recipes/).
