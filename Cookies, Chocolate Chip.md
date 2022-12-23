@@ -1,14 +1,14 @@
 # Chocolate Chip Cookies
 
-* 1 cup **butter** *(softened)*
-* 1 cup **brown sugar** *(packed)*
-* 1⁄2 cup **sugar**
-* 3⁄4 tsp **baking soda**
-* 1⁄2 tsp **salt**
-* 2 **eggs**
-* 1 tsp **vanilla**
-* 2 1⁄2 cups **flour**
-* 12 oz **semisweet chocolate chips** *(or other candy)*
+* 1⁄2 cup **butter** *(softened)*
+* 1⁄2 cup **brown sugar** *(packed)*
+* 1⁄4 cup **sugar**
+* 3⁄8 tsp **baking soda**
+* 1⁄4 tsp **salt**
+* 1 **egg**
+* 1⁄2 tsp **vanilla**
+* 1 1⁄4 cups **flour**
+* 6 oz **semisweet chocolate chips** *(or other candy)*
 
 1. Pre-heat oven to **375 °F**
 1. Beat **butter** with mixer on **med-high** for **30 sec**
