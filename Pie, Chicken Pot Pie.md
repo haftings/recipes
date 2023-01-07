@@ -26,7 +26,7 @@ Instructions
 1. Cook on med heat ~ **2 min** stirring frequently
 1. Stir in **flour**, **salt** and **pepper** until well blended
 1. Slowly stir in **broth** and **milk**, stirring constantly
-1. Cook, stirring constantly until thich and bubbly
+1. Cook, stirring constantly until thick and bubbly
 1. Stir in **chicken**, **peas** & **carrots**
 1. Fill **pie shell** with mixture and cover with other **pie shell**
 1. Seal and flute edges; cover rim with **aluminum foil**
@@ -36,7 +36,7 @@ Instructions
 
 Nutrition
 
-Nutrient | Ammount
+Nutrient | Amount
 ---------|------------
 Calories | 3,150 cal
 Carbs    | 270 g (35%)

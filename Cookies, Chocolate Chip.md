@@ -26,7 +26,7 @@ Instructions
 
 Nutrition
 
-Nutrient | Ammount
+Nutrient | Amount
 ---------|--------------
 Calories | 2,977 cal
 Carbs    | 390.4 g (51%)
