@@ -21,3 +21,12 @@ Instructions
 1. Fill **mushroom caps** with mixture
 1. Arrange on cookie sheet over parchment paper
 1. Bake ~ **20 min**
+
+Nutrition
+
+Nutrient | Amount
+---------|--------------
+Calories | 1,227 cal
+Carbs    | 103 g (15%)
+Fat      | 265 g (72%)
+Protein  |  40 g (13%)
