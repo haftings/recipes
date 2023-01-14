@@ -2,12 +2,12 @@
 
 Ingredients
 
-- 2 cups **white rice** (*cooked and dried*)
+- 2 cups **white rice** *(cooked and dried)*
 - 2 tbsp **vegetable oil** or **canola oil**
-- 1 small **onion** (*finely chopped*)
-- 1 medium **carrot** (*diced*)
-- 2 **scallions** (*thinly sliced*)
-- 2 medium cloves **garlic** (*minced*)
+- 1 small **onion** *(finely chopped)*
+- 1 medium **carrot** *(diced)*
+- 2 **scallions** *(thinly sliced)*
+- 2 medium cloves **garlic** *(minced)*
 - 1 tsp **light soy sauce**
 - 1 tsp **toasted sesame oil**
 - 3 **eggs**
