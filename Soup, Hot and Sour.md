@@ -18,7 +18,7 @@ Sautéing Ingredients
   * *shiitake, wood ear and cloud ear are good choices*
 * 2 **green onions** *(sliced, save greens for garnish)*
 * 1 tsp **ginger** *(minced)*
-* 2 tsp **vegetable oil**
+* 1 Tbsp **vegetable oil**
 
 Simmering & Boiling Ingredients
 
@@ -26,6 +26,7 @@ Simmering & Boiling Ingredients
 * 1 large **carrot** *(grated)*
 * 2 Tbsp **red bell pepper** *(optional, thinly sliced)*
 * 12 oz **soft tofu** *(cubed)*
+* 1 egg **beaten**
 
 Instructions
 
@@ -34,6 +35,15 @@ Instructions
 1. Whisk **thickening** ingredients into a slurry, set asside
 1. Sauté **mushrooms**, **green onions** and **ginger** in **veggie oil** for **2 min**
 1. Add **broth**, bring to simmer and cook **5 min** once simmering
-1. Add **sauce**, remaining **veggies** and **tofu**, simmer another **5 min**
-1. Bring to full boil, slowly pour in **eggs** while stirring; keep stirring until it boils again
+1. Add **sauce**, **carrots**, **bell pepper** and **tofu**, simmer another **5 min**
+1. Bring to full boil, slowly pour in **egg** while stirring; keep stirring until it boils again
 1. Slowly add **cornstarch** slurry while stirring until thickened ~ **1 min** – **2 min**
+
+Nutrition
+
+Nutrient | Amount
+---------|------------
+Calories | 1,015 cal
+Carbs    | 110 g (43%)
+Fat      |  39 g (34%)
+Protein  |  59 g (23%)

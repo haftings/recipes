@@ -2,32 +2,38 @@
 
 Ingredients
 
-- 2 cups **white rice** *(cooked and dried)*
-- 2 tbsp **vegetable oil** or **canola oil**
-- 1 small **onion** *(finely chopped)*
-- 1 medium **carrot** *(diced)*
-- 2 **scallions** *(thinly sliced)*
-- 2 medium cloves **garlic** *(minced)*
-- 1 tsp **light soy sauce**
-- 1 tsp **toasted sesame oil**
-- 3 **eggs**
-- 1/2 cup frozen **peas**
-- 1/2 tsp **white pepper**
-- **salt** to taste
+* 2 cups *(dry)* **white rice** *(cooked and cooled)*
+* 6 Tbsp **vegetable oil** or **canola oil**
+* 1 small **onion** *(finely chopped)*
+* 1 **carrot** *(diced)*
+* 2 cloves **garlic** *(minced)*
+* 2 tsp **light soy sauce**
+* 1 tsp **toasted sesame oil**
+* 4 **eggs** *(scrambled)*
+* 2/3 cup frozen **peas**
+* 2 **green onions** *(thinly sliced)*
+* 1/2 tsp **white pepper**
+* **salt** to taste
 
 Instructions
 
-1. Transfer rice to a medium bowl and break the rice up with your hands.
-1. Chop onions, garlic, and scallions. Scramble eggs in a small bowl. Measure out frozen peas and carrots.
-1. Heat 1/2 Tbsp oil in a wok over high heat until smoking. Add **1 cup of rice** and cook, stirring and tossing,
-until the rice is pale brown and toasted and has a lightly chewy texture, about 3 minutes.
-1. Transfer rice to a medium bowl. Repeat with another 1/2 Tbsp oil and remaining rice,
-and then also transfer it out of the wok.
-1. Add 1/2 Tbsp oil to the wok. Add **onion, carrot, scallions, and garlic** and cook, stirring gently,
-until lightly softened and fragrant, about 1 minute. Remove to the separate bowl.
-1. Add 1/2 Tbsp oil. Break the **eggs** into the oil and season with a little salt.
-Use a spatula to scramble the egg, breaking it up into small bits.
-1. Add all cooked ingredients back to the wok. Add **salt** and **white pepper** and mix together.
-1. Add **soy sauce** and **sesame oil** by pouring it down the sides of the wok, then mix it into the rice.
-1. Mix frozen **peas** into the rice until warmed through.
-1. Serve and eat immediately.
+1. Prep everything beforehand!
+1. Cook the dish **half at a time**!
+1. Break rice up with your hands.
+1. Heat **1 Tbsp oil** in a wok over high heat until smoking.
+1. Stirfry **rice** in oil ~ **3 min**, until pale brown and toasted with lightly chewy texture.
+1. Add **1 Tbsp oil**, **onion**, **carrot**, **green onions** and **garlic**, stirfry ~ **1 min**
+1. Push asside wok contents, add **1 Tbsp oil**, pour **eggs** in and season with **salt**.
+1. Cook and scramble egg until solid in pieces, then mix everything together.
+1. Mix in **white pepper** to taste.
+1. Pour **soy sauce** and **sesame oil** down the sides of the wok, then mix into rice.
+1. Mix in **green onions** and **peas** until warmed through.
+
+Nutrition
+
+Nutrient | Amount
+---------|------------
+Calories | 1,858 cal
+Carbs    | 181 g (39%)
+Fat      | 109 g (52%)
+Protein  |  45 g (9%)
