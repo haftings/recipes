@@ -26,11 +26,11 @@ Filling Ingredients
 
 Instructions (day 1)
 
-* Mix **flour**, **salt**, and **chili powder**
-* Mix and work **butter** into mixture several min, until the texture of dry sand
-* Scramble **egg** in **water** and **vinegar**, add and mix into dough
-* Dust counter with **flour**, and briefly kneed dough into ball over the flour
-* Lightly seal dough in fridge to chill **1 hr – 24 hr** (ideally overnight)
+1. Mix **flour**, **salt**, and **chili powder**
+1. Mix and work **butter** into mixture several min, until the texture of dry sand
+1. Scramble **egg** in **water** and **vinegar**, add and mix into dough
+1. Dust counter with **flour**, and briefly kneed dough into ball over the flour
+1. Lightly seal dough in fridge to chill **1 hr – 24 hr** (ideally overnight)
 
 Instructions (day 2)
 
