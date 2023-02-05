@@ -34,18 +34,18 @@ Instructions (day 1)
 
 Instructions (day 2)
 
-* Pre-heat oven to **375 °F**
-* Boil chopped **potatoes** in water for **1 min**
-* Brown **beef** in pan on **medium** heat
-* Add **shallot**, cook until softened
-* Mix in **cumin**, **chipotle**, **garlic**, **salt** and **pepper**
-* Add **potatoes** and **corn**, cook until hot
-* Add **cheese**, mix, remove heat, let cool **30 min – 45 min**
-* Split dough into **8 parts** of roughly equal size
-* Flour counter again, and roll empanadas into flat rounds
-* Fill with **filling** and a bit of optional **sauce**
-* Chill in frige another **30 min – 45 min**
-* Place on baking sheet over parchement paper
-* Mix **egg** with **2 Tbsp water**, brush over empanadas
-* Bake **20 min – 25 min**
-* Cool **3 min – 5 min**
+1. Pre-heat oven to **375 °F**
+1. Boil chopped **potatoes** in water for **1 min**
+1. Brown **beef** in pan on **medium** heat
+1. Add **shallot**, cook until softened
+1. Mix in **cumin**, **chipotle**, **garlic**, **salt** and **pepper**
+1. Add **potatoes** and **corn**, cook until hot
+1. Add **cheese**, mix, remove heat, let cool **30 min – 45 min**
+1. Split dough into **8 parts** of roughly equal size
+1. Flour counter again, and roll empanadas into flat rounds
+1. Fill with **filling** and a bit of optional **sauce**
+1. Chill in frige another **30 min – 45 min**
+1. Place on baking sheet over parchement paper
+1. Mix **egg** with **2 Tbsp water**, brush over empanadas
+1. Bake **20 min – 25 min**
+1. Cool **3 min – 5 min**
