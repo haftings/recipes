@@ -45,7 +45,7 @@ Rice Ingredients
 
 * 1 cup **rice**
 * 2 cups **water**
-* 1 Tbps **butter**
+* 1 Tbsp **butter**
 * 1 tsp **salt**
 
 Sauce Ingredients
