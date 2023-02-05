@@ -5,17 +5,16 @@
 Ingredients
 
 * 1/2 stick **cinnamon**
-* 1 **bay leaves**
 * 1/2 Tbsp whole **cloves**
 * 1 Tbsp **cumin** seeds
 * 1.5 Tbsp **coriander** seeds
-* 1/2 Tbsp **cardamom**
+* 1 tsp **cardamom** pods
 * 1/2 tsp **red pepper flakes**
 * 1/2 whole **nutmeg**
 
 Instructions
 
-1. Toast **curry powder ingredients** besides nutmeg in dry pan over **medium** until fragrant
+1. Toast **curry powder ingredients** *besides nutmeg* in dry pan over **medium** until fragrant
 1. Thoroughly powder these spices and the **nutmeg** in a spice grinder or mortar & pestle
 
 ---
@@ -55,9 +54,10 @@ Sauce Ingredients
 * 2 cloves **garlic** *(grated)*
 * 2" **ginger** *(grated)*
 * 1 Tbsp **tomato paste**
-* 1 small bird's eye **chili pepper** *(finely minced)*
+* 1 small bird's eye **chili pepper** *(seeded, finely minced)*
 * 1.5 Tbsp **curry powder** from above
 * 28 oz **crushed tomatoes**
+* 2 **bay leaves**
 * 2 tsp **sugar**
 * 3/4 cup **heavy cream**
 * **salt** and **pepper**
@@ -69,6 +69,7 @@ Instructions
 1. Sauté **onion** in **oil** until tender
 1. Mix in **garlic**, **ginger**, **tomato paste**, **chili pepper** and **chili powder**, cook about **30 sec** until fragrant
 1. Add **rice** to boiling water, cook for **20 min**
-1. Add **crushed tomatoes** and **sugar**, cook **5 min**
+1. Add **crushed tomatoes**, **bay leaves** and **sugar**, cook **5 min**
 1. Mix **cream** and **chicken** into sauce, cook **5 min** – **10 min**
 1. Add **salt** and **pepper** to taste
+1. Remove **bay leaves** and serve
