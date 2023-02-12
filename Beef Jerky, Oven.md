@@ -19,7 +19,7 @@ Instructions
 1. Slice beef into 1/8" – 1/4" slices
 1. Mix marinade together, and marinade beef in it for **1 hr** – **24 hr**
 1. Pre-heat oven to **160 °F**
-1. Pad beef try with paper towels
+1. Pad beef dry with paper towels
 1. Arange beef slices over baking rack on top of a pan (touching is fine, but overlapping is not)
 1. Bake for **3 hr** – **4.5 hr**, until done to your liking, checking every half hour or so
 1. Store in the **fridge**!
