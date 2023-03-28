@@ -14,3 +14,5 @@
 1. Add lemon juice until desired tartness is reached (~1/2 lemon).
 1. Season with **black pepper** and kosher **salt** to taste.
 1. Serve, optionally topped with additional grated cheese, lemon zest, and any remaining lemon wedges for squeezing.
+
+Also known as pasta al limone.
