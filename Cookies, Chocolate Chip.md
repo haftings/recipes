@@ -2,26 +2,27 @@
 
 Ingredients
 
-* 1⁄2 cup **butter** *(softened)*
+* 1⁄2 cup (1 stick) **butter** *(softened)*
 * 1⁄2 cup **brown sugar** *(packed)*
 * 1⁄4 cup **sugar**
-* 3⁄8 tsp **baking soda**
-* 1⁄4 tsp **salt**
-* 1 **egg**
+* 1⁄4 tsp **baking soda**
+* * 1⁄4 tsp **baking powder**
+* 1⁄2 tsp **salt**
 * 1⁄2 tsp **vanilla**
+* 1 **egg**
 * 1 1⁄4 cups **flour**
-* 6 oz **semisweet chocolate chips** *(or other candy)*
+* 6 oz **semisweet chocolate chips**
 
 Instructions
 
+1. Use a mixer on **medium-high** to cream **butter** and **sugars** until soft, aerated, and fully combined, about **1-3 minutes**
+1. Beat in **egg** and **vanilla** until thoroughly mixed. Scrape down bowl
+1. In a separate bowl, combine the flour, salt, baking soda, and baking powder. Whisk to evenly distribute the ingredients
+1. Add the dry ingredients all at once to the mixing bowl, then mix at **low** speed until the batter is just combined
+1. Combine **chocolate chips**, mixing as little as possible to avoid overworking the dough
+1. Place on **parchment paper** on a baking sheet and refrigerate for at least **1 hour**, up to **three days**
 1. Pre-heat oven to **375 °F**
-1. Beat **butter** with mixer on **med-high** for **30 sec**
-1. Beat in **sugars**, **baking soda** and **salt**
-1. Beat in **eggs** and **vanilla**
-1. Beat in as much **flour** as you can; stir the rest in with a spoon
-1. Stir in **chocolate chips**
-1. Place on **ungreased pan** in ~ **1" balls** at ~ **2" apart**
-1. Bake for **8 min** – **9 min** until edges lightly brown
+1. Bake for **18 min** – **20 min** until edges lightly brown
 1. Cool on wire rack
 
 Nutrition
