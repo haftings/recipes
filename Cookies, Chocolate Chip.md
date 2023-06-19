@@ -6,7 +6,7 @@ Ingredients
 * 1⁄2 cup **brown sugar** *(packed)*
 * 1⁄4 cup **sugar**
 * 1⁄4 tsp **baking soda**
-* * 1⁄4 tsp **baking powder**
+* 1⁄4 tsp **baking powder**
 * 1⁄2 tsp **salt**
 * 1⁄2 tsp **vanilla**
 * 1 **egg**
