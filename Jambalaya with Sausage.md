@@ -15,7 +15,7 @@
 * **bay leaf**
 * 1 Tbsp **chicken base**
 * 1 cup **rice** *(dry, long grain or parboiled)*
-* 3 **green onions** **(sliced)*
+* 3 **green onions** *(sliced)*
 
 1. Pre-heat oven to **325 °F**
 1. Separate **tomatoes** in a bowl and tomato **juice** in a big measuring cup
