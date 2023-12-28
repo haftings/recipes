@@ -44,7 +44,7 @@
                     option.text = r[1]
                     if (option.value === path) {
                         option.selected = true
-                        var f = () => show_recipe(document.getElementById('ls').value)
+                        var f = () => show_recipe(path)
                         if (document.readyState === "complete") f()
                         else window.addEventListener('load', f)
                     }
@@ -85,6 +85,7 @@
         }
         // show selected recipe
         show_recipe = path => {
+            console.log('showing recipe: ' + (path || '""'))
             if (path) {
                 window.location.hash = path.replace(/\.md$/, '')
                 fetch(path).then(r => r.text().then(text => {
