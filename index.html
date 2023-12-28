@@ -33,7 +33,7 @@
 
         // populate recipes dropdown
         fetch('https://api.github.com/repos/haftings/recipes/git/trees/main').then(r => r.json().then(data => {
-            var path = decodeURIComponent(window.location.hash).replace(/^#|\.md$/g, '') + '.md'
+            var path = decodeURIComponent(window.location.hash).replaceAll(/^#|\.md$/g, '') + '.md'
             var select = document.getElementById('ls')
             var paths = [];
             for (const i of data.tree) {
@@ -42,7 +42,7 @@
                     var option = document.createElement('option')
                     option.value = r[0]
                     option.text = r[1]
-                    if (option.value == path) {
+                    if (option.value === path) {
                         option.selected = true
                         var f = () => show_recipe(document.getElementById('ls').value)
                         if (document.readyState === "complete") f()
