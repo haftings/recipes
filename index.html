@@ -33,6 +33,7 @@
 
         // populate recipes dropdown
         fetch('https://api.github.com/repos/haftings/recipes/git/trees/main').then(r => r.json().then(data => {
+            var path = decodeURIComponent(window.location.hash).replace(/^#|\.md$/g, '') + '.md'
             var select = document.getElementById('ls')
             var paths = [];
             for (const i of data.tree) {
@@ -41,6 +42,12 @@
                     var option = document.createElement('option')
                     option.value = r[0]
                     option.text = r[1]
+                    if (option.value == path) {
+                        option.selected = true
+                        window.addEventListener('load', () => {
+                            show_recipe(document.getElementById('ls').value)
+                        })
+                    }
                     select.append(option)
                 }
             }
@@ -79,6 +86,7 @@
         // show selected recipe
         show_recipe = path => {
             if (path) {
+                window.location.hash = path.replace(/\.md$/, '')
                 fetch(path).then(r => r.text().then(text => {
                     var ingredients = ''
                     var content = document.getElementById('content')
@@ -86,6 +94,7 @@
                 }))
             } else {
                 document.getElementById('content').innerHTML = '<br>Select a recipe above...'
+                window.location.hash = ''
             }
         }
     </script>
