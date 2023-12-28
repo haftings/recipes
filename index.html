@@ -44,9 +44,9 @@
                     option.text = r[1]
                     if (option.value == path) {
                         option.selected = true
-                        window.addEventListener('load', () => {
-                            show_recipe(document.getElementById('ls').value)
-                        })
+                        var f = () => show_recipe(document.getElementById('ls').value)
+                        if (document.readyState === "complete") f()
+                        else window.addEventListener('load', f)
                     }
                     select.append(option)
                 }
