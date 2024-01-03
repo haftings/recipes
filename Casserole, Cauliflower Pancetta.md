@@ -1,14 +1,15 @@
 # Cauliflower Pancetta Casserole
 
 * 4 oz **pancetta**
-* 1 cup **milk**
-* 2-3 **scallions**
-* 10 oz **cauliflower florets**
-* 8 oz **curly pasta** (cavatappi or similar)
-* 1 Tbsp **flour**
-* 1⁄2 cup shredded **italian cheese blend**
-* 1 Tbsp **butter**
-* 1 Tbsp **olive oil**
+* 2 cup **milk**
+* 4 **scallions**
+* 20 oz **cauliflower florets**
+* 12 oz **curly pasta** (cavatappi or similar)
+* 2 Tbsp **flour**
+* 2 tsp **chicken stock concentrate**
+* 1 cup shredded **italian cheese blend**
+* 2 Tbsp **butter**
+* 4 Tbsp **olive oil**
 * **salt** to taste
 * **pepper** to taste
 
