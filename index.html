@@ -70,7 +70,8 @@
                     p.dataset.recipe = r[1]
                     var a = document.createElement('a')
                     a.href = '#' + r[1]
-                    a.onclick = () => show_recipe(r[1])
+                    a.dataset.recipe = r[1]
+                    a.onclick = e => show_recipe(e.target.dataset.recipe + '.md')
                     a.innerText = r[1]
                     p.append(a)
                     results.append(p)
