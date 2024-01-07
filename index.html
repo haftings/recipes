@@ -24,6 +24,14 @@
             <button onclick="copy_ingredients(document.getElementById('content'))">Copy Ingredients</button>
             <label><input type="checkbox" id="stock">Include stock ingredients?</label>
         </p>
+        <div id="search-stuff">
+            <p>
+                <label for="search">Search recipes:</label>
+                <input id="search" type="search" name="q" list="recipes-datalist" onchange="search(this.value)" oninput="search(this.value)">
+            </p>
+            <div id="results"></div>
+            <datalist id="recipes-datalist"></datalist>
+        </div>
         <div id="content"><br>Select a recipe above...</div>
     </body>
     <script>
@@ -35,10 +43,13 @@
         fetch('https://api.github.com/repos/haftings/recipes/git/trees/main').then(r => r.json().then(data => {
             var path = decodeURIComponent(window.location.hash).replaceAll(/^#|\.md$/g, '') + '.md'
             var select = document.getElementById('ls')
+            var datalist = document.getElementById('recipes-datalist')
+            var results = document.getElementById('results')
             var paths = [];
             for (const i of data.tree) {
                 var r = /(.*)\.md$/.exec(i.path)
                 if (r && !/readme\.md$/i.exec(i.path)) {
+                    // add to drop-down menu
                     var option = document.createElement('option')
                     option.value = r[0]
                     option.text = r[1]
@@ -49,8 +60,23 @@
                         else window.addEventListener('load', f)
                     }
                     select.append(option)
+                    // add to search data
+                    option = document.createElement('option')
+                    option.value = r[1]
+                    datalist.append(option)
+                    // add to search results
+                    var p = document.createElement('p')
+                    p.className = 'result'
+                    p.dataset.recipe = r[1]
+                    var a = document.createElement('a')
+                    a.href = '#' + r[1]
+                    a.onclick = () => show_recipe(r[1])
+                    a.innerText = r[1]
+                    p.append(a)
+                    results.append(p)
                 }
             }
+            search(document.getElementById('search').value)
         }))
         // define amounts and stock ingredients to ignore when copying ingredients
         re_number = /[\d.\/ \t&]+/g
@@ -83,19 +109,39 @@
                 text += li2text(li)
             navigator.clipboard.writeText(text)
         }
+        // filter search results
+        search = text => {
+            for (const e of document.getElementsByClassName('result')) {
+                var display = 'block';
+                regex = /\S+/g
+                while (r = regex.exec(text)) {
+                    anything = true
+                    if (!e.dataset.recipe.toLowerCase().includes(r[0].toLowerCase())) {
+                        display = 'none'
+                        break
+                    }
+                }
+                e.style.display = display
+            }
+            
+        }
         // show selected recipe
         show_recipe = path => {
             console.log('showing recipe: ' + (path || '""'))
             if (path) {
                 window.location.hash = path.replace(/\.md$/, '')
+                document.getElementById('search-stuff').style.display = 'none'
                 fetch(path).then(r => r.text().then(text => {
                     var ingredients = ''
                     var content = document.getElementById('content')
                     content.innerHTML = marked.parse(text)
                 }))
             } else {
-                document.getElementById('content').innerHTML = '<br>Select a recipe above...'
+                document.getElementById('content').innerHTML = ''
                 window.location.hash = ''
+                document.getElementById('search').value = ''
+                search('')
+                document.getElementById('search-stuff').style.display = 'block'
             }
         }
     </script>
