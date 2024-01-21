@@ -19,8 +19,8 @@ Good With
 1. Fill three shallow soup bows with **flour**, **egg**, and **panko** respectively
 1. Use meat pounder (or mallet) to pound both sides of **pork chops** until very thin **≤ 1⁄4" thick**
 1. Heat ~ 1⁄2" **oil** in a deep pan on **medium high** until wavy
-   * Drop a bit of panko in the oil to test, it should sizzle vigorously
-   * Vary heat from **medium** to **medium high** to maintain temp while cooking
+   1. Drop a bit of panko in the oil to test, it should sizzle vigorously
+   1. Vary heat from **medium** to **medium high** to maintain temp while cooking
 1. Prepare chops one at a time, and cook them two at a time
    1. Dredge both sides in **flour** to coat
    1. Dredge both sides in **egg** to further coat
