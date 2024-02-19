@@ -2,34 +2,26 @@
 
 Ingredients
 
-* 1⁄2 cup (1 stick) **butter** *(softened)*
-* 1⁄2 cup **brown sugar** *(packed)*
-* 1⁄4 cup **sugar**
-* 1⁄4 tsp **baking soda**
-* 1⁄4 tsp **baking powder**
-* 1⁄2 tsp **salt**
-* 1⁄2 tsp **vanilla**
-* 1 **egg**
-* 1 1⁄4 cups **flour**
-* 6 oz **semisweet chocolate chips**
+* 1 cup (2 sticks) **butter** *(softened)*
+* 1 cup **brown sugar** *(packed)*
+* 0.5 cup **sugar**
+* 0.75 tsp **baking soda**
+* 0.5 tsp **salt**
+* 2 **eggs**
+* 1.5 tsp **vanilla**
+* 2.5 cups **flour**
+* 12 oz **semisweet chocolate chips**
 
 Instructions
 
-1. Use a mixer on **medium-high** to cream **butter** and **sugars** until soft, aerated, and fully combined, about **1-3 minutes**
-1. Beat in **egg** and **vanilla** until thoroughly mixed. Scrape down bowl
-1. In a separate bowl, combine the flour, salt, baking soda, and baking powder. Whisk to evenly distribute the ingredients
-1. Add the dry ingredients all at once to the mixing bowl, then mix at **low** speed until the batter is just combined
-1. Combine **chocolate chips**, mixing as little as possible to avoid overworking the dough
-1. Place on **parchment paper** on a baking sheet and refrigerate for at least **1 hour**, up to **three days**
 1. Pre-heat oven to **375 °F**
-1. Bake for **18 min** – **20 min** until edges lightly brown
+1. If butter is cold, then microwave **butter** 40 kJ at lowest setting, e.g. 0:40 on 1 kW, or **6:30 on 100 W**
+1. Mix **butter** with mixer on **high for 30 sec** until smooth
+1. Add **sugars**, mix until until soft and fully combined
+1. Beat in **eggs** and **vanilla** until thoroughly mixed
+1. Add the **flour** about 0.5 to 1.0 cup at a time, mixing together on **low** speed as you go until the batter is just combined
+1. Combine **chocolate chips**, mixing as little as possible to avoid overworking the dough
+1. Shape into 0.75" tall 0.25 cup disks on parchment paper on pan
+1. Bake for **10 min** – **12 min** until edges lightly brown
+1. Cool on cookie sheet **1 min**
 1. Cool on wire rack
-
-Nutrition
-
-Nutrient | Amount
----------|--------------
-Calories | 2,977 cal
-Carbs    | 390.4 g (51%)
-Fat      | 149.6 g (45%)
-Protein  |  29.1 g (4%)
