@@ -6,18 +6,18 @@ Pumpkin Pie
 * 14 oz **sweetened condensed milk**
 * 2 **eggs**
 * 1⁄2 tsp **salt**
-* 2 tsp **cinnamon** (preferably Saigon cinnamon)
-* 1⁄2 tsp allspice *(ground)*
+* 2 tsp **Saigon cinnamon** (ground)
+* 1⁄2 tsp **allspice** *(freshly ground)*
+* 1⁄2 tsp **nutmeg** *(freshly ground)*
+* 1⁄2 tsp **cloves** *(freshly ground)*
 * 1⁄2 tsp **ginger** *(ground)*
-* 1⁄2 tsp **nutmeg** *(ground)*
-* 1⁄4 tsp **cloves** *(ground)*
 * 1⁄4 tsp **cream of tartar**
 * *(optional)* **whipped cream**
 
 Streusel Topping
 * 1 cup **walnuts** *(finely chopped)*
-* 2 heaping Tbsp **flour**
-* 1⁄4 cup packed **brown sugar**
+* 1⁄4 cup packed **dark brown sugar**
+* 2 Tbsp **flour**
 * 1⁄2 Tbsp **cinnamon** *(ground)*
 * 2 Tbsp **cold butter**
 
@@ -33,7 +33,7 @@ Streusel Topping
 1. Pour custard into **pie shells**
 1. Cover pie edges with **pie shield** or **aluminum foil**
 1. Bake **15 min** while preparing **streusel** topping:
-   1. Remove items from freezer
+   1. Remove butter and utensils from freezer
    1. Mix **flour**, **brown sugar**, and **cinnamon** in the medium mixing bowl
    1. Finely chop **cold butter** and blend it into the mixture with fork or pastry blender until crumbly
    1. Mix in chopped **walnuts**
@@ -41,4 +41,4 @@ Streusel Topping
 1. Reduce oven temperature to **350 °F** and return pies
 1. Bake **25 min** or until custard is set and walnuts are toasted golden
 1. Remove pies and cool on wire rack for **1 hour**
-2. Cover pies and chill in refrigerator
+1. Cover pies and chill in refrigerator
