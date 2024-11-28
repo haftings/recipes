@@ -2,18 +2,18 @@
 
 Ingredients
 
-* 1 oz – 2 oz **butter** *(to taste)*
-* 1 med **onion** *(chopped)*
-* 1⁄2 **fennel bulb** *(chopped)* *(use larger onion if missing)*
-* ~ 2 tsp **pepper**
-* 1⁄2 tsp **celery seeds**
-* 2 Tbsp **flour**
-* 28 oz **canned whole tomatoes**
-* **salt** *(to taste)*
-* **water** *(as needed)*
-* ∅ – 1⁄4 cup **vinegar** *(optional, to taste)*
-* ∅ – 1 Tbsp **tomato paste** *(optional, to taste)*
-* ∅ – 1 Tbsp **sugar** *(optional, to taste)*
+- 1 oz – 2 oz **butter** *(to taste)*
+- 1 med **onion** *(chopped)*
+- 0.5 **fennel bulb** *(chopped)* *(use larger onion if missing)*
+- ~ 2 tsp **pepper**
+- 0.5 tsp **celery seeds**
+- 2 Tbsp **flour**
+- 28 oz **canned whole tomatoes**
+- **salt** *(to taste)*
+- **water** *(as needed)*
+– 0.25 cup **vinegar** *(optional, to taste)*
+– 1 Tbsp **tomato paste** *(optional, to taste)*
+– 1 Tbsp **sugar** *(optional, to taste)*
 
 Instructions
 
@@ -24,5 +24,5 @@ Instructions
 1. Simmer ≥ **30 min**, stirring/scraping occasionally, adding **water** as needed
 1. Purée soup with immersion blender
 1. Add (a lot of) **salt** and **water** to taste
-1. Add **vineger**, **tomato paste**, and/or **sugar** to taste
+1. Add **vinegar**, **tomato paste**, and/or **sugar** to taste
 1. Garnish with optional **basil** or **fennel fronds**

@@ -3,7 +3,7 @@
 Ingredients
 
 - 5 Tbsp **butter**
-- 1 pound **button mushrooms**
+- 1 lb **button mushrooms**
 - **salt** and **pepper** to taste
 - 2 Tbsp **white wine** or **chicken broth**
 - 2 tsp **garlic** *(minced)*

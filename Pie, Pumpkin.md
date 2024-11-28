@@ -1,25 +1,25 @@
 # Pumpkin Pie
 
 Pumpkin Pie
-* 2 refrigerated **9" pie shells**
-* 15 oz can **pumpkin puree**
-* 14 oz **sweetened condensed milk**
-* 2 **eggs**
-* 1⁄2 tsp **salt**
-* 2 tsp **Saigon cinnamon** (ground)
-* 1⁄2 tsp **allspice** *(freshly ground)*
-* 1⁄2 tsp **nutmeg** *(freshly ground)*
-* 1⁄2 tsp **cloves** *(freshly ground)*
-* 1⁄2 tsp **ginger** *(ground)*
-* 1⁄4 tsp **cream of tartar**
-* *(optional)* **whipped cream**
+- 2 refrigerated **9" pie shells**
+- 15 oz can **pumpkin Purée**
+- 14 oz **sweetened condensed milk**
+- 2 **eggs**
+- 0.5 tsp **salt**
+- 2 tsp **Saigon cinnamon** (ground)
+- 0.5 tsp **allspice** *(freshly ground)*
+- 0.5 tsp **nutmeg** *(freshly ground)*
+- 0.5 tsp **cloves** *(freshly ground)*
+- 0.5 tsp **ginger** *(ground)*
+- 0.25 tsp **cream of tartar**
+- *(optional)* **whipped cream**
 
 Streusel Topping
-* 1 cup **walnuts** *(finely chopped)*
-* 1⁄4 cup packed **dark brown sugar**
-* 2 Tbsp **flour**
-* 1⁄2 Tbsp **cinnamon** *(ground)*
-* 2 Tbsp **cold butter**
+- 1 cup **walnuts** *(finely chopped)*
+- 0.25 cup packed **dark brown sugar**
+- 2 Tbsp **flour**
+- 0.5 Tbsp **cinnamon** *(ground)*
+- 2 Tbsp **cold butter**
 
 
 1. Prepare **pie crusts**

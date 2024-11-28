@@ -2,9 +2,9 @@
 
 Ingredients
 
-* 1/2 lb potatoes *(grated, rinsed, squeezed dry)*
-* clarified butter *(or another high-smoke-point fat)*
-* salt
+- 0.5 lb potatoes *(grated, rinsed, squeezed dry)*
+- clarified butter *(or another high-smoke-point fat)*
+- salt
 
 Instructions
 

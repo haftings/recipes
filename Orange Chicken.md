@@ -2,22 +2,22 @@
 
 Rice
 
-* 2 cups **water**
-* 1 Tbsp **butter**
-* 1 tsp **salt**
-* 1 cup white **rice**
+- 2 cups **water**
+- 1 Tbsp **butter**
+- 1 tsp **salt**
+- 1 cup white **rice**
 
 Chicken
 
-* 1 lb **chicken** tenderloins *(cut in chunks)*
-* 15 oz can **mandarin oranges** *(juice separated)*
-* 2 Tbsp Chinese **5 spice**
-* 1 Tbsp **fresh ginger** *(finely grated)*
-* 3 **green onions** *(chopped)*
-* 1 Tbsp **sesame seeds**
-* **salt** + **pepper** to taste
-* **sesame oil** *(for sauté)*
-* 2 Tbsp **soy sauce**
+- 1 lb **chicken** tenderloins *(cut in chunks)*
+- 15 oz can **mandarin oranges** *(juice separated)*
+- 2 Tbsp Chinese **5 spice**
+- 1 Tbsp **fresh ginger** *(finely grated)*
+- 3 **green onions** *(chopped)*
+- 1 Tbsp **sesame seeds**
+- **salt** + **pepper** to taste
+- **sesame oil** *(for sauté)*
+- 2 Tbsp **soy sauce**
 
 Instructions
 

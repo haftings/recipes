@@ -8,13 +8,13 @@ Dipping Sauce Ingredients
 - 1 Tbsp **honey** or golden syrup
 - 1 tsp **sesame oil**
 - 1 clove **garlic** *(crushed)*
-- 1 - 2 Tbsp **water** or **milk**, e.g. almond milk
+- 1 – 2 Tbsp **water** or **milk**, e.g. almond milk
 
 Filling Ingredients
 
 - **rice paper** sheets
 - **vermicelli** noodles
-- 1/4 **red cabbage** *(julienned)*
+- 0.25 **red cabbage** *(julienned)*
 - 2 **carrots** *(matchsticked)*
 - 1 cup **baby spinach**
 - sprig of **fresh mint** or coriander *(julienned)*

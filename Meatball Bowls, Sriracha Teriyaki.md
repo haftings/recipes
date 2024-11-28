@@ -2,35 +2,35 @@
 
 Rice
 
-* 2 cups **water**
-* 1 Tbsp **butter**
-* 1 tsp **salt**
-* 1 cup **rice**
+- 2 cups **water**
+- 1 Tbsp **butter**
+- 1 tsp **salt**
+- 1 cup **rice**
 
 Meatballs
 
-* 1 lb **ground turkey**
-* 3 cloves **garlic** *(minced)*
-* 1 large **egg**
-* 2 tsp **fresh cilantro** *(chopped)*
-* 1 Tbsp **sriracha sauce**
-* 1 Tbsp fresh **ginger** *(grated)*
-* 1 **green onion** *(white part only, minced, reserve greens)*
-* 1 cup whole wheat **panko**
-* 0.5 tsp **pepper**
-* **water** as needed *(lukewarm)*
-* **olive oil**
+- 1 lb **ground turkey**
+- 3 cloves **garlic** *(minced)*
+- 1 large **egg**
+- 2 tsp **fresh cilantro** *(chopped)*
+- 1 Tbsp **sriracha sauce**
+- 1 Tbsp fresh **ginger** *(grated)*
+- 1 **green onion** *(white part only, minced, reserve greens)*
+- 1 cup whole wheat **panko**
+- 0.5 tsp **pepper**
+- **water** as needed *(lukewarm)*
+- **olive oil**
 
 Sauce
 
-* 1 cup low-sodium **soy sauce**
-* 1/3 cup raw **honey**
-* 0.5 cup + 3 Tbsp **water**
-* 1 Tbsp toasted **sesame oil**
-* 2 Tbsp **sriracha sauce**
-* 2 tsp fresh **ginger** *(grated)*
-* 1 Tbsp **cornstarch**
-* 2 Tbsp **sesame seeds**
+- 1 cup low-sodium **soy sauce**
+- 1/3 cup raw **honey**
+- 0.5 cup + 3 Tbsp **water**
+- 1 Tbsp toasted **sesame oil**
+- 2 Tbsp **sriracha sauce**
+- 2 tsp fresh **ginger** *(grated)*
+- 1 Tbsp **cornstarch**
+- 2 Tbsp **sesame seeds**
 
 Instructions
 

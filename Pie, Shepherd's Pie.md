@@ -1,12 +1,12 @@
 # Shepherd's Pie
 
 Mashed Potatoes (Topping)
-* 1 1⁄2 lbs russet **potatoes** *(1⁄2" cubes)*
-* 1⁄4 cup **half & half**
-* 4 Tbsp **butter**
-* 1⁄4 tsp **salt**
-* 1⁄4 tsp **pepper**
-* 1 **egg yolk** *(discard white)*
+- 1.5 lbs russet **potatoes** *(0.5" cubes)*
+- 0.25 cup **half & half**
+- 4 Tbsp **butter**
+- 0.25 tsp **salt**
+- 0.25 tsp **pepper**
+- 1 **egg yolk** *(discard white)*
 
 1. Bring covered **water** and **potatoes** to boil
 1. Uncover and simmer **10 min** – **15 min** until tender, drain
@@ -15,21 +15,21 @@ Mashed Potatoes (Topping)
 1. Stir in **egg yolk**
 
 Filling
-* 2 Tbsp **canola oil**
-* 1 cup **onion** *(chopped)*
-* 2 **carrots** *(finely diced)*
-* 2 cloves **garlic**
-* 1 lb **ground lamb**
-* 1 tsp **kosher salt**
-* 1⁄2 tsp **pepper**
-* 2 Tbps **flour**
-* 2 tsp **tomato paste**
-* 1 cup **chicken broth**
-* 1 tsp **Worcestershire sauce**
-* 2 tsp fresh **rosemary** *(minced)*
-* 1 tsp fresh **thyme** *(minced)*
-* 1⁄2 cup frozen **peas**
-* 1⁄2 cup frozen **corn**
+- 2 Tbsp **canola oil**
+- 1 cup **onion** *(chopped)*
+- 2 **carrots** *(finely diced)*
+- 2 cloves **garlic**
+- 1 lb **ground lamb**
+- 1 tsp **kosher salt**
+- 0.5 tsp **pepper**
+- 2 Tbsp **flour**
+- 2 tsp **tomato paste**
+- 1 cup **chicken broth**
+- 1 tsp **Worcestershire sauce**
+- 2 tsp fresh **rosemary** *(minced)*
+- 1 tsp fresh **thyme** *(minced)*
+- 0.5 cup frozen **peas**
+- 0.5 cup frozen **corn**
 
 1. Pre-heat oven to **400 °F**
 1. Sauté **onion** and **carrots** in **oil** for **3 min** – **4 min**

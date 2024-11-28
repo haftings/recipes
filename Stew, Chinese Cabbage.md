@@ -2,19 +2,19 @@
 
 Stew (**1 hr 10 min** – **2 hr**)
 
-* 2 lbs **stew beef**
-* 1 Tbps **olive oil**
-* salt & pepper
-* 1 can Campbell's™ **golden mushroom soup**
-* 1 1⁄2 cups **water**
-* 1⁄2 cup **yellow onion** *(sliced)*
-* 2 Tbsp **soy sauce**
-* 6 cups **cabbage** *(1" pieces)*
-* *(optional)* 8 oz **mushrooms** *(sliced)*
+- 2 lbs **stew beef**
+- 1 Tbsp **olive oil**
+- salt & pepper
+- 1 can Campbell's™ **golden mushroom soup**
+- 1.5 cups **water**
+- 0.5 cup **yellow onion** *(sliced)*
+- 2 Tbsp **soy sauce**
+- 6 cups **cabbage** *(1" pieces)*
+- *(optional)* 8 oz **mushrooms** *(sliced)*
 
 1. Sauté **meat** in **oil** with salt and pepper on **med-high**
 1. Add **soup**, **water**, **onion**, and **soy sauce**
-1. **Simmer** for **45 min** – **1 1⁄2 hours**, and 
+1. **Simmer** for **45 min** – **1.5 hours**, and 
    <span style="text-decoration: underline">
        *start making **rice***
    </span>
@@ -24,10 +24,10 @@ Stew (**1 hr 10 min** – **2 hr**)
 
 Rice (**30 min**)
 
-* 2 cups **water**
-* 1 1⁄2 Tbsp **butter**
-* 1 tsp **salt**
-* 1 cup jasmine **rice** *(dry)*
+- 2 cups **water**
+- 1.5 Tbsp **butter**
+- 1 tsp **salt**
+- 1 cup jasmine **rice** *(dry)*
 
 1. Boil **water**, **butter**, and **salt** in a sauce pan
 1. Add **rice**, mix, and **simmer** covered for **22 min**

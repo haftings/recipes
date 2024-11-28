@@ -2,30 +2,30 @@
 
 Sauce Ingredients *(makes enough for 2 recipes)*
 
-* 1/2 **red chilli** *(thinly sliced)*
-* 1 Tbsp **olive oil**
-* 1 Tbsp **soy sauce**
-* 2 tsp **fish sauce**
-* 1 tsp light **brown sugar**
-* 1 tsp **sesame oil**
-* 1 **lime** *(1/2 juice, zest and use rest below)*
-* small bunch **fresh cilantro** *(chopped, optional)*
+- 0.5 **red chilli** *(thinly sliced)*
+- 1 Tbsp **olive oil**
+- 1 Tbsp **soy sauce**
+- 2 tsp **fish sauce**
+- 1 tsp light **brown sugar**
+- 1 tsp **sesame oil**
+- 1 **lime** *(0.5 juice, zest and use rest below)*
+- small bunch **fresh cilantro** *(chopped, optional)*
 
 Main Ingredients
 
-* 1 tsp **olive oil**
-* 8 oz **ground beef**
-* 8 oz **ground pork**
-* 1 Tbsp toasted **sesame oil**
-* 2 cloves **garlic** *(finely chopped)*
-* 1" fresh **ginger** *(finely chopped)*
-* 1.5 **red chillies** *(chopped, no seeds)*
-* 1 Tbsp light **brown sugar**
-* 1 Tbsp **fish sauce**
-* 1 **lime** *(zest + 1/3 juice)*
-* 3 **green onions** *(chopped)*
-* **salt** and **pepper**
-* 2 little **gem lettuces** *(separated into leaves)*
+- 1 tsp **olive oil**
+- 8 oz **ground beef**
+- 8 oz **ground pork**
+- 1 Tbsp toasted **sesame oil**
+- 2 cloves **garlic** *(finely chopped)*
+- 1" fresh **ginger** *(finely chopped)*
+- 1.5 **red chillies** *(chopped, no seeds)*
+- 1 Tbsp light **brown sugar**
+- 1 Tbsp **fish sauce**
+- 1 **lime** *(zest + 1/3 juice)*
+- 3 **green onions** *(chopped)*
+- **salt** and **pepper**
+- 2 little **gem lettuces** *(separated into leaves)*
 
 Instructions
 

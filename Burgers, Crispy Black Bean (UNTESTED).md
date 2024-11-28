@@ -2,23 +2,23 @@
 
 Ingredients
 
-* 1 **yellow onion** *(thin sliced)*
-* 1 Tbsp **butter**
-* 1 Tbsp **olive oil**
-* 1/2 **red onion** *(diced)*
-* 2 **Holland peppers** *(diced)*
-* 1/2 cup **shiitake mushrooms** *(sliced)*
-* 15 oz **black beans** *(well drained)*
-* 1 **egg**
-* 1 tsp **cumin**
-* 1 tsp **garlic powder**
-* 1 tsp **chipotle powder**
-* 1 1/2 cups **panko** *(divided)*
-* 1 1/2 cups **flour** *(divided)*
-* **salt** and **pepper** to taste
-* 2-3 burger **buns**
-* 3/4 cup **guacamole** *(optional)*
-* 2-3 slices **pepper jack cheese**
+- 1 **yellow onion** *(thin sliced)*
+- 1 Tbsp **butter**
+- 1 Tbsp **olive oil**
+- 0.5 **red onion** *(diced)*
+- 2 **Holland peppers** *(diced)*
+- 0.5 cup **shiitake mushrooms** *(sliced)*
+- 15 oz **black beans** *(well drained)*
+- 1 **egg**
+- 1 tsp **cumin**
+- 1 tsp **garlic powder**
+- 1 tsp **chipotle powder**
+- 1.5 cups **panko** *(divided)*
+- 1.5 cups **flour** *(divided)*
+- **salt** and **pepper** to taste
+- 2-3 burger **buns**
+- 0.75 cup **guacamole** *(optional)*
+- 2-3 slices **pepper jack cheese**
 
 Instructions
 

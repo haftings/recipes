@@ -4,19 +4,19 @@
 
 Ingredients
 
-* 4 Tbsp **butter**
-* 2 cups **onions** *(chopped)*
-* 1 lb **mushrooms** *(sliced)*
-* 16 oz **chicken broth**
-* 1 Tbsp **soy sauce**
-* 1 Tbsp **paprika**
-* (optional) 2 tsp **dried dill** weed
-* 1 cup **milk**
-* 3 Tbsp **flour**
-* 1⁄2 cup **sour cream**
-* 1⁄4 cup fresh **parsley** *(chopped)*
-* 2 tsp **lemon juice**
-* **salt** + **pepper** *(to taste)*
+- 4 Tbsp **butter**
+- 2 cups **onions** *(chopped)*
+- 1 lb **mushrooms** *(sliced)*
+- 16 oz **chicken broth**
+- 1 Tbsp **soy sauce**
+- 1 Tbsp **paprika**
+- (optional) 2 tsp **dried dill** weed
+- 1 cup **milk**
+- 3 Tbsp **flour**
+- 0.5 cup **sour cream**
+- 0.25 cup fresh **parsley** *(chopped)*
+- 2 tsp **lemon juice**
+- **salt** + **pepper** *(to taste)*
 
 Instructions
 
@@ -26,5 +26,5 @@ Instructions
 1. Whisk **milk** and **flour** in separate bowl
 1. Stir milk & flour mixture into soup until blended
 1. Cover and simmer **15 min** stirring occasionally
-1. Add **sour cream**, **parsley**, **lemon juice**, **salt**, **pepper**; stir on low heat **~ 2 min - 5 min** until warmed through
+1. Add **sour cream**, **parsley**, **lemon juice**, **salt**, **pepper**; stir on low heat **~ 2 min – 5 min** until warmed through
 this is a thing too

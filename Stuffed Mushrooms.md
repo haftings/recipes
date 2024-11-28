@@ -2,15 +2,15 @@
 
 Ingredients
 
-* 1 lb cremini **mushrooms** *(stems separately removed and chopped)*
-* 1/2 **shallot** *(minced)*
-* 1 Tbsp **garlic** *(minced)*
-* 1 Tbsp **olive oil**
-* 8 oz **cream cheese** *(softened)*
-* 1/4 cup **Parmesan cheese** *(grated)*
-* 1/4 tsp **cayenne** powder
-* 1/4 tsp **pepper**
-* 2 **green onions** *(optional, finely sliced)*
+- 1 lb cremini **mushrooms** *(stems separately removed and chopped)*
+- 0.5 **shallot** *(minced)*
+- 1 Tbsp **garlic** *(minced)*
+- 1 Tbsp **olive oil**
+- 8 oz **cream cheese** *(softened)*
+- 0.25 cup **Parmesan cheese** *(grated)*
+- 0.25 tsp **cayenne** powder
+- 0.25 tsp **pepper**
+- 2 **green onions** *(optional, finely sliced)*
 
 Instructions
 

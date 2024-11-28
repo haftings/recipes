@@ -4,13 +4,13 @@
 
 Ingredients
 
-* 1/2 stick **cinnamon**
-* 1/2 Tbsp whole **cloves**
-* 1 Tbsp **cumin** seeds
-* 1.5 Tbsp **coriander** seeds
-* 1 tsp **cardamom** pods
-* 1/2 tsp **red pepper flakes**
-* 1/2 whole **nutmeg**
+- 0.5 stick **cinnamon**
+- 0.5 Tbsp whole **cloves**
+- 1 Tbsp **cumin** seeds
+- 1.5 Tbsp **coriander** seeds
+- 1 tsp **cardamom** pods
+- 0.5 tsp **red pepper flakes**
+- 0.5 whole **nutmeg**
 
 Instructions
 
@@ -23,13 +23,13 @@ Instructions
 
 Ingredients
 
-* 1 cup full fat **yogurt**
-* 2" **ginger** *(grated)*
-* 2 cloves **garlic** *(grated)*
-* 1 tsp **olive oil**
-* 1 Tbsp **curry powder** from above
-* **salt** and **pepper**
-* 1 lb **chicken breasts** *(1" cubes)*
+- 1 cup full fat **yogurt**
+- 2" **ginger** *(grated)*
+- 2 cloves **garlic** *(grated)*
+- 1 tsp **olive oil**
+- 1 Tbsp **curry powder** from above
+- **salt** and **pepper**
+- 1 lb **chicken breasts** *(1" cubes)*
 
 Instructions
 
@@ -42,25 +42,25 @@ Instructions
 
 Rice Ingredients
 
-* 1 cup **rice**
-* 2 cups **water**
-* 1 Tbsp **butter**
-* 1 tsp **salt**
+- 1 cup **rice**
+- 2 cups **water**
+- 1 Tbsp **butter**
+- 1 tsp **salt**
 
 Sauce Ingredients
 
-* 2 Tbsp **vegetable oil**
-* 1/2 yellow **onion** *(finely minced)*
-* 2 cloves **garlic** *(grated)*
-* 2" **ginger** *(grated)*
-* 1 Tbsp **tomato paste**
-* 1 small bird's eye **chili pepper** *(seeded, finely minced)*
-* 1.5 Tbsp **curry powder** from above
-* 28 oz **crushed tomatoes**
-* 2 **bay leaves**
-* 2 tsp **sugar**
-* 3/4 cup **heavy cream**
-* **salt** and **pepper**
+- 2 Tbsp **vegetable oil**
+- 0.5 yellow **onion** *(finely minced)*
+- 2 cloves **garlic** *(grated)*
+- 2" **ginger** *(grated)*
+- 1 Tbsp **tomato paste**
+- 1 small bird's eye **chili pepper** *(seeded, finely minced)*
+- 1.5 Tbsp **curry powder** from above
+- 28 oz **crushed tomatoes**
+- 2 **bay leaves**
+- 2 tsp **sugar**
+- 0.75 cup **heavy cream**
+- **salt** and **pepper**
 
 Instructions
 

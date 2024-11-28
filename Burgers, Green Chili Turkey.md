@@ -1,19 +1,19 @@
 # Green Chili Turkey Burgers
 
 Patties
-* 19 oz **ground turkey**
-* 4 oz canned **green chiles** *(diced)*
-* 1⁄2 tsp **cumin**
-* 1⁄4 tsp **garlic powder**
-* 1⁄4 tsp **salt**
-* 2-3 **green onions** *(sliced)*
-* 2 oz **pepper jack cheese** *(shredded)*
+- 19 oz **ground turkey**
+- 4 oz canned **green chiles** *(diced)*
+- 0.5 tsp **cumin**
+- 0.25 tsp **garlic powder**
+- 0.25 tsp **salt**
+- 2-3 **green onions** *(sliced)*
+- 2 oz **pepper jack cheese** *(shredded)*
 
 Others
-* 2 tsp **olive oil**
-* 4 hamburger **buns**
-* 1 **tomato** *(sliced)*
-* 1 **avocado** *(sliced)*
+- 2 tsp **olive oil**
+- 4 hamburger **buns**
+- 1 **tomato** *(sliced)*
+- 1 **avocado** *(sliced)*
 
 Instructions
 1. Mix **patties** ingredients in bowl

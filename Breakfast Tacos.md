@@ -4,16 +4,16 @@ From Sarah's Recipe Book
 
 Ingredients
 
-* 1/2 white **onion** *(sliced)*
-* 1/2 orange **bell pepper** *(sliced)*
-* 1/2 yellow **bell pepper** *(sliced)*
-* 1 red **jalapeño** *(chopped)*
-* 3/4 cup **pepper jack cheese** *(shredded)*
-* 2 **eggs** / serving
-* splash of **milk** / serving
-* 2 slices of **bacon** / serving
-* **tortillas**
-* salt & pepper
+- 0.5 white **onion** *(sliced)*
+- 0.5 orange **bell pepper** *(sliced)*
+- 0.5 yellow **bell pepper** *(sliced)*
+- 1 red **jalapeño** *(chopped)*
+- 0.75 cup **pepper jack cheese** *(shredded)*
+- 2 **eggs** / serving
+- splash of **milk** / serving
+- 2 slices of **bacon** / serving
+- **tortillas**
+- salt & pepper
 
 Instructions
 

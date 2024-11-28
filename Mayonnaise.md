@@ -2,13 +2,13 @@
 
 Ingredients
 
-* 1 large **egg**
-* 1 Tbsp **lemon juice** *(~ 1⁄2 lemon)*
-* 1 tsp **Dijon mustard**
-* 1 clove **garlic** *(coarsely crushed)*
-* *(optional)* extra mayo **herbs & spices**
-* 1 cup **oil** *(veggie, canola, or olive&dagger;)*
-* Kosher salt
+- 1 large **egg**
+- 1 Tbsp **lemon juice** *(~ 0.5 lemon)*
+- 1 tsp **Dijon mustard**
+- 1 clove **garlic** *(coarsely crushed)*
+- *(optional)* extra mayo **herbs & spices**
+- 1 cup **oil** *(veggie, canola, or olive&dagger;)*
+- Kosher salt
 
 *&dagger; bitter olive oils will become more bitter, so use milder ones*
 

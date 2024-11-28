@@ -1,22 +1,22 @@
 # Rugelach
 
 Dough
-* 1½ cups **butter** *(softened)*
-* 12 oz **cream cheese** *(softened)*
-* 3 cups **flour**
+- 1½ cups **butter** *(softened)*
+- 12 oz **cream cheese** *(softened)*
+- 3 cups **flour**
 
 Filling
-* 3½ oz **dark chocolate** *(finely chopped)*
-* 3½ oz **semi-sweet chocolate** *(finely chopped)*
-* 3½ oz **milk chocolate** *(finely chopped)*
-* ½ cup **walnuts** *(finely chopped)*
-* ¾ cup **sugar**
-* 1½ tsp **cinnamon**
+- 3½ oz **dark chocolate** *(finely chopped)*
+- 3½ oz **semi-sweet chocolate** *(finely chopped)*
+- 3½ oz **milk chocolate** *(finely chopped)*
+- ½ cup **walnuts** *(finely chopped)*
+- ¾ cup **sugar**
+- 1½ tsp **cinnamon**
 
 Preparation and Garnish
-* ½ cup **flour**
-* ½ cup **powdered sugar** *(more for garnish)*
-* 1 **egg white** *(lightly beaten)*
+- ½ cup **flour**
+- ½ cup **powdered sugar** *(more for garnish)*
+- 1 **egg white** *(lightly beaten)*
 
 Instructions
 1. Cream **butter** and **cream cheese** with paddle until light and fluffy
@@ -32,8 +32,8 @@ Instructions
 1. Lightly press **filling mix** on top
 1. Roll up along long edge with filling inside
 1. Cut into 12 pieces per strip (72 total)
-1. Place **2" apart** on sheet pans lined with **parchement paper**
-1. Coat Rugelach with beaten **egg whites** using a brush
+1. Place **2" apart** on sheet pans lined with **parchment paper**
+1. Coat rugelach with beaten **egg whites** using a brush
 1. Bake **18 min** – **20 min**
 1. Cool completely
 1. Dust with more **powdered sugar**

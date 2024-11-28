@@ -19,7 +19,7 @@ Instructions
 1. Stir, cook another **3 min – 4 min** until tender *(use fork)*, set potato mix aside
 1. Melt **2 Tbsp butter** on **high** heat
 1. Add **steak** in one layer, cook **1 min**
-1. Stir and cook **1 min - 2 min**, stirring frequently until done to taste, remove from heat
+1. Stir and cook **1 min – 2 min**, stirring frequently until done to taste, remove from heat
 1. Mix **potatoes** back in
 1. Season with extra **salt** and **pepper** to taste
 1. *(optional)* Top with **parsley**

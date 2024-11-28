@@ -1,11 +1,11 @@
 # Caramel (No-Stir)
 
-* 3⁄4 cup salted **butter**
-* 1⁄4 tsp **salt**
-* 1 cup light **corn syrup**
-* 2 cups **sugar**
-* 2 cups **heavy cream**
-* 2 tsp **vanilla** extract
+- 0.75 cup salted **butter**
+- 0.25 tsp **salt**
+- 1 cup light **corn syrup**
+- 2 cups **sugar**
+- 2 cups **heavy cream**
+- 2 tsp **vanilla** extract
 
 1. Line 8" square pan with **parchment paper**
 1. Combine **butter**, **salt**, **corn syrup**, **sugar** and **1 cup** of the **cream** in medium saucepan
@@ -17,7 +17,7 @@
 1. Cook, without stirring, until mixture reaches **245 °F**
 1. Remove from heat
 1. Stir in **vanilla** *(bubbles)*
-1. Pour into pappered pan
+1. Pour into papered pan
    <span style="text-decoration: underline">
        do not scrape the saucepan sides
    </span>

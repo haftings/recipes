@@ -2,15 +2,15 @@
 
 Ingredients
 
-* 1 cup (2 sticks) **butter** *(softened)*
-* 1 cup **brown sugar** *(packed)*
-* 0.5 cup **sugar**
-* 0.75 tsp **baking soda**
-* 0.5 tsp **salt**
-* 2 **eggs**
-* 1.5 tsp **vanilla**
-* 2.5 cups **flour**
-* 12 oz **semisweet chocolate chips**
+- 1 cup (2 sticks) **butter** *(softened)*
+- 1 cup **brown sugar** *(packed)*
+- 0.5 cup **sugar**
+- 0.75 tsp **baking soda**
+- 0.5 tsp **salt**
+- 2 **eggs**
+- 1.5 tsp **vanilla**
+- 2.5 cups **flour**
+- 12 oz **semisweet chocolate chips**
 
 Instructions
 

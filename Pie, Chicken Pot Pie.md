@@ -2,19 +2,19 @@
 
 Ingredients
 
-* 2 refrigerated **9" pie shells**
-* 1⁄3 cup **butter**
-* 1⁄3 cup **onion** *(chopped)*
-* 1 clove **garlic** *(minced)*
-* several sprigs fresh **thyme** *(minced)*
-* several sprigs fresh **rosemary** *(minced)*
-* 1⁄3 cup **flour**
-* 1 tsp **salt**
-* 1⁄2 tsp **pepper**
-* 14 oz **chicken broth**
-* 1⁄2 cup **milk**
-* 1 lb **chicken breast** *(boneless, skinless)*
-* 2 cups frozen **peas** & **carrots** *(thawed)*
+- 2 refrigerated **9" pie shells**
+- 1/3 cup **butter**
+- 1/3 cup **onion** *(chopped)*
+- 1 clove **garlic** *(minced)*
+- several sprigs fresh **thyme** *(minced)*
+- several sprigs fresh **rosemary** *(minced)*
+- 1/3 cup **flour**
+- 1 tsp **salt**
+- 0.5 tsp **pepper**
+- 14 oz **chicken broth**
+- 0.5 cup **milk**
+- 1 lb **chicken breast** *(boneless, skinless)*
+- 2 cups frozen **peas** & **carrots** *(thawed)*
 
 Instructions
 

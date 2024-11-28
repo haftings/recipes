@@ -1,14 +1,14 @@
 # Chili Roasted Potatoes
 
-* 3 lbs **potatoes** *(1" – 2" cubes)
-* 2 Tbps **olive oil**
-* 1⁄2 Tbsp **chili** powder
-* 1⁄2 tsp **cumin** powder
-* 1⁄8 tsp **cayenne** powder
-* 1⁄8 tsp **garlic** powder
-* 1⁄4 tsp **onion** powder
-* 1⁄2 tsp **salt**
-* 1⁄2 tsp **pepper**
+- 3 lbs **potatoes** *(1" – 2" cubes)
+- 2 Tbsp **olive oil**
+- 0.5 Tbsp **chili** powder
+- 0.5 tsp **cumin** powder
+- 1/8 tsp **cayenne** powder
+- 1/8 tsp **garlic** powder
+- 0.25 tsp **onion** powder
+- 0.5 tsp **salt**
+- 0.5 tsp **pepper**
 
 1. Preheat oven to **400 °F**
 1. Mix **spices**

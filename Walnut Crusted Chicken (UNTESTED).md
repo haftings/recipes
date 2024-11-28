@@ -2,14 +2,14 @@
 
 Ingredients
 
-* 1 Tbsp kosher **salt**
-* 1 cup **raw walnuts** *(finely ground)
-* 4 cloves **garlic** *(minced)*
-* 2 tbsp **fresh rosemary** *(chopped)*
-* 1/8 tsp **cayenne**
-* 1.5 lbs **chicken breasts** *(halved)*
-* 2 Tbsp **butter**
-* **salt** and **pepper**
+- 1 Tbsp kosher **salt**
+- 1 cup **raw walnuts** *(finely ground)
+- 4 cloves **garlic** *(minced)*
+- 2 tbsp **fresh rosemary** *(chopped)*
+- 1/8 tsp **cayenne**
+- 1.5 lbs **chicken breasts** *(halved)*
+- 2 Tbsp **butter**
+- **salt** and **pepper**
 
 Instructions
 

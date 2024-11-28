@@ -4,18 +4,18 @@ From Sarah's Recipe Book
 
 Ingredients
 
-* 1.5 lbs **ground turkey**
-* 1 red **bell pepper** *(chopped)*
-* 1 large **onion**
-* 2 Tbsp **olive oil**
-* 1 large **egg**
-* 2 cloves **garlic** *(finely chopped)*
-* 1 tsp **pepper**
-* 3 Tbsp **fresh parsley** *(finely chopped)*
-* 0.75 cup + 3 Tbsp seasoned **breadcrumbs**
-* 0.5 cup **ketchup**
-* 0.25 cup **brown sugar**
-* 1 Tbsp **Worcestershire sauce**
+- 1.5 lbs **ground turkey**
+- 1 red **bell pepper** *(chopped)*
+- 1 large **onion**
+- 2 Tbsp **olive oil**
+- 1 large **egg**
+- 2 cloves **garlic** *(finely chopped)*
+- 1 tsp **pepper**
+- 3 Tbsp **fresh parsley** *(finely chopped)*
+- 0.75 cup + 3 Tbsp seasoned **breadcrumbs**
+- 0.5 cup **ketchup**
+- 0.25 cup **brown sugar**
+- 1 Tbsp **Worcestershire sauce**
 
 Requires:
 1. **turkey baster**

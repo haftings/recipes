@@ -2,11 +2,11 @@
 
 Ingredients
 
-* 4 large russet **potatoes** *(peeled, 0.5" sticks)*
-* 1 tsp **salt**
-* 1 Tbsp **white vinegar**
-* 1/4 cup **peanut oil**
-* more **salt** *(and optional **herbs** and **spices**)*
+- 4 large russet **potatoes** *(peeled, 0.5" sticks)*
+- 1 tsp **salt**
+- 1 Tbsp **white vinegar**
+- 0.25 cup **peanut oil**
+- more **salt** *(and optional **herbs** and **spices**)*
 
 Instructions
 

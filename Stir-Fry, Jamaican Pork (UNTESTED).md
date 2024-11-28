@@ -2,20 +2,20 @@
 
 Ingredients
 
-* 2 cups **water**
-* 1 Tbsp **butter**
-* 1 tsp **salt**
-* 1 cup white **rice** *(dry)*
-* 24 oz **veggies**
+- 2 cups **water**
+- 1 Tbsp **butter**
+- 1 tsp **salt**
+- 1 cup white **rice** *(dry)*
+- 24 oz **veggies**
   * onions *(sliced)*
   * carrots *(sliced)*
   * mushrooms *(sliced)*
   * snap peas
-* 2 Tbsp **olive oil**
-* 1 lb pork chops *(sliced small)*
-* 2 tsp – 3 tsp **Jamaican jerk** seasoning
-* 3⁄4 cup **plum sauce**
-* **peanuts** *(chopped)*
+- 2 Tbsp **olive oil**
+- 1 lb pork chops *(sliced small)*
+- 2 tsp – 3 tsp **Jamaican jerk** seasoning
+- 0.75 cup **plum sauce**
+- **peanuts** *(chopped)*
 
 Instructions
 

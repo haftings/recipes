@@ -2,27 +2,27 @@
 
 Spice Mix Ingredients
 
-* 0.5 Tbsp chili powder
-* 0.5 Tbsp smoked paprika
-* 0.25 tsp cayenne pepper
-* 0.5 tsp freshly ground black pepper
-* 2 tsp garlic powder
-* 0.5 Tbsp onion powder
-* 0.5 Tbsp kosher salt *(or to taste)*
+- 0.5 Tbsp chili powder
+- 0.5 Tbsp smoked paprika
+- 0.25 tsp cayenne pepper
+- 0.5 tsp freshly ground black pepper
+- 2 tsp garlic powder
+- 0.5 Tbsp onion powder
+- 0.5 Tbsp kosher salt *(or to taste)*
 
 Main Ingredients
 
-* 1.0 lbs – 1.5 lbs boneless chicken breasts
-* 1 Tbsp olive oil
-* 0.5 lemon *(juice)*
-* 2/3 cup heavy cream
-* 1/3 cup water
-* 0.25 cup green onions *(sliced)*
-* 1 Tbsp cold butter *(cubed)*
+- 1.0 lbs – 1.5 lbs boneless chicken breasts
+- 1 Tbsp olive oil
+- 0.5 lemon *(juice)*
+- 2/3 cup heavy cream
+- 1/3 cup water
+- 0.25 cup green onions *(sliced)*
+- 1 Tbsp cold butter *(cubed)*
 
 Serve Over
 
-* rice or fettuccine pasta *(cook at the same time)*
+- rice or fettuccine pasta *(cook at the same time)*
 
 Instructions
 

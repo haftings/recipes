@@ -2,30 +2,30 @@
 
 Dressing
 
-* 1 Tbsp **olive oil**
-* 1⁄2 Tbsp **red wine vinegar**
-* 1⁄8 tsp **sambal oelek** sauce
-* 1⁄2 tsp **oregano**
-* 1⁄8 tsp **garlic powder**
-* salt & pepper
+- 1 Tbsp **olive oil**
+- 0.5 Tbsp **red wine vinegar**
+- 1/8 tsp **sambal oelek** sauce
+- 0.5 tsp **oregano**
+- 1/8 tsp **garlic powder**
+- salt & pepper
 
 Garlic Mayo
 
-* 3 Tbsp **mayo**
-* 1 – 2 cloves **garlic** *(crushed & minced)**
+- 3 Tbsp **mayo**
+- 1 – 2 cloves **garlic** *(crushed & minced)**
 
 Other Ingredients
 
-* 1 – 2 cups crunchy **lettuce** *(thinly sliced)*
-* 2 **hoagies** *(halved)*
-* 1⁄4 lb sliced **provolone cheese**
-* 1⁄4 lb sliced **ham**
-* 1⁄4 lb sliced **Genoa salami**
-* 1⁄8 lb sliced **pepperoni**
-* 1⁄2 small **green pepper** *(thinly sliced)*
-* handful of [**pickled onions**](Pickled%20Onions.md)
-* 1⁄2 **tomato** *(thinly sliced, lightly **salted**)*
-* wax paper or parchement paper
+- 1 – 2 cups crunchy **lettuce** *(thinly sliced)*
+- 2 **hoagies** *(halved)*
+- 0.25 lb sliced **provolone cheese**
+- 0.25 lb sliced **ham**
+- 0.25 lb sliced **Genoa salami**
+- 1/8 lb sliced **pepperoni**
+- 0.5 small **green pepper** *(thinly sliced)*
+- handful of [**pickled onions**](Pickled%20Onions.md)
+- 0.5 **tomato** *(thinly sliced, lightly **salted**)*
+- wax paper or parchment paper
 
 Instructions
 
@@ -40,5 +40,5 @@ Instructions
    1. **pepperoni**
    1. **ham**
    1. **cheese** *(bottom)*
-1. **Wrap tightly** in wax or parchement paper, applying even pressure
+1. **Wrap tightly** in wax or parchment paper, applying even pressure
 1. Let rest for at least **1 min**

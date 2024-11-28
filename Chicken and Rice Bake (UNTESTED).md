@@ -2,16 +2,16 @@
 
 Ingredients
 
-* 2 – 4 Tbsp olive oil
-* 1 lb chicken thighs
-* large red onion *(chopped)*
-* 2 cups brown rice *(rinsed)*
-* 32 oz chicken stock
-* 1 Tbsp herbs de provence or italian seasoning
-* 4 large carrots *(peeled, halved, sliced)*
-* large crown of broccoli *(chopped)*
-* 1 1/2 cups frozen peas
-* salt and pepper to taste
+- 2 – 4 Tbsp olive oil
+- 1 lb chicken thighs
+- large red onion *(chopped)*
+- 2 cups brown rice *(rinsed)*
+- 32 oz chicken stock
+- 1 Tbsp herbs de provence or italian seasoning
+- 4 large carrots *(peeled, halved, sliced)*
+- large crown of broccoli *(chopped)*
+- 1.5 cups frozen peas
+- salt and pepper to taste
 
 Variation: Fried Rice Style
 
@@ -31,6 +31,6 @@ Instructions
 1. Add half-browned thighs and onion, sauté until meat browned and onion starts to caramelize
 1. Add rice, stir and cook until fragrant
 1. Add stock, carrots, broccoli and seasoning, stir
-1. Transfer to oven and bake 45 min - 60 min, until little or no liquid re-fills a spooned indentation to bottom of pot
+1. Transfer to oven and bake 45 min – 60 min, until little or no liquid re-fills a spooned indentation to bottom of pot
 1. Add frozen peas, mix to thaw and quick-steam
 1. Stir in salt and pepper to taste

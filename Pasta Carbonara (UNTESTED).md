@@ -2,15 +2,15 @@
 
 Ingredients
 
-* 2 **egg yolks**
-* 1/4 cup **milk**
-* 1 oz **parmesan** or **pecorino cheese** *(grated)*
-* 1 large **zucchini** *(bite sized pieces, no seed cores)*
-* 4 – 6 cloves **garlic** *(peeled and chopped)*
-* 6 oz **bacon** *(cut to large chunks)*
-* 6 oz dry **pasta** *(any shape, tubes work well)*
-* fresh herbs like **rosemary** and **sage** *(chopped)*
-* **salt** and **pepper**
+- 2 **egg yolks**
+- 0.25 cup **milk**
+- 1 oz **parmesan** or **pecorino cheese** *(grated)*
+- 1 large **zucchini** *(bite sized pieces, no seed cores)*
+- 4 – 6 cloves **garlic** *(peeled and chopped)*
+- 6 oz **bacon** *(cut to large chunks)*
+- 6 oz dry **pasta** *(any shape, tubes work well)*
+- fresh herbs like **rosemary** and **sage** *(chopped)*
+- **salt** and **pepper**
 
 Instructions
 

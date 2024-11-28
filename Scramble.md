@@ -1,22 +1,22 @@
 # Scramble
 
-* 1 Tbsp **salt**
-* 1 Tbsp white **vinegar**
-* 16 oz – 24 oz russet **potatoes** *(1⁄4" cubes)*
-* 1 lb **bacon** *(1.5" slices)* or ~ 1 lb mild **sausage** *(bias sliced)*
-* 6 Tbsp **olive oil**
-* yellow **onion** *(chopped)*
-* 8 oz portobello **mushrooms** *(diced)*
-* 2 tsp **cumin**
-* 1 tsp **paprika**
-* 1 tsp **chili** powder
-* 1 tsp **garlic** powder
-* 1⁄2 bunch fresh **thyme** *(minced)*
-* 1⁄2 bunch fresh **rosemary** *(minced)*
-* **salt** & **pepper** to taste
-* **red bell pepper** *(chopped)*
-* 8 **eggs**
-* 4 **green onions** *(sliced)*
+- 1 Tbsp **salt**
+- 1 Tbsp white **vinegar**
+- 16 oz – 24 oz russet **potatoes** *(0.25" cubes)*
+- 1 lb **bacon** *(1.5" slices)* or ~ 1 lb mild **sausage** *(bias sliced)*
+- 6 Tbsp **olive oil**
+- yellow **onion** *(chopped)*
+- 8 oz portobello **mushrooms** *(diced)*
+- 2 tsp **cumin**
+- 1 tsp **paprika**
+- 1 tsp **chili** powder
+- 1 tsp **garlic** powder
+- 0.5 bunch fresh **thyme** *(minced)*
+- 0.5 bunch fresh **rosemary** *(minced)*
+- **salt** & **pepper** to taste
+- **red bell pepper** *(chopped)*
+- 8 **eggs**
+- 4 **green onions** *(sliced)*
 
 1. Start boiling a large pot of **water** with **salt** and **vinegar**
 1. Cook **bacon** in pan and set aside *(continue to next step while cooking)*

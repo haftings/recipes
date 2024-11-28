@@ -3,7 +3,7 @@
 Rice Ingredients
 
 - 2 cups **water**
-- 0.5 Tbps **butter**
+- 0.5 Tbsp **butter**
 - 1 tsp **salt**
 - 1 cup white rice
 

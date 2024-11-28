@@ -1,29 +1,29 @@
 # Steak Fajitas
 
 Marinade
-* 1 tsp **salt**
-* 1⁄2 tsp **pepper**
-* 1⁄2 tsp **oregano**
-* 1 tsp **garlic powder**
-* 1 tsp **cumin**
-* 1⁄2 tsp **paprika**
-* 1 tsp **chili powder**
-* 1 large **lime**
-* 2 Tbsp **olive oil**
+- 1 tsp **salt**
+- 0.5 tsp **pepper**
+- 0.5 tsp **oregano**
+- 1 tsp **garlic powder**
+- 1 tsp **cumin**
+- 0.5 tsp **paprika**
+- 1 tsp **chili powder**
+- 1 large **lime**
+- 2 Tbsp **olive oil**
 
 Main Ingredients
-* 1 lb beef **flank steak**
-* **olive oil**
-* 1 **green bell pepper** *(sliced)*
-* 1 **red** or **yellow bell pepper** *(sliced)*
-* 1 medium **yellow onion** *(sliced)*
-* ≥ 6 **tortillas** *(warmed)*
+- 1 lb beef **flank steak**
+- **olive oil**
+- 1 **green bell pepper** *(sliced)*
+- 1 **red** or **yellow bell pepper** *(sliced)*
+- 1 medium **yellow onion** *(sliced)*
+- ≥ 6 **tortillas** *(warmed)*
 
 Optional
-* **pico de gallo**
-* **sour cream**
-* **guacamole**
-* **rice** *(cooked)*
+- **pico de gallo**
+- **sour cream**
+- **guacamole**
+- **rice** *(cooked)*
 
 1. Mix together **marinade**
 1. Add **flank steak** *(pre-slice if not marinading overnight)*

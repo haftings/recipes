@@ -1,13 +1,13 @@
 # Pancakes, Almond Flour
 
-* 1 cup **almond flour**
-* 1⁄4 cup **water**
-* 2 **eggs**
-* 1 Tbps **maple syrup**
-* 1⁄4 tsp **salt**
-* 1 tsp **oil**
-* *(optional)* **maple syrup** *(more for serving)*
-* *(optional)* **butter** *(for serving)*
+- 1 cup **almond flour**
+- 0.25 cup **water**
+- 2 **eggs**
+- 1 Tbsp **maple syrup**
+- 0.25 tsp **salt**
+- 1 tsp **oil**
+- *(optional)* **maple syrup** *(more for serving)*
+- *(optional)* **butter** *(for serving)*
 
 1. Whisk together **flour**, **water**, **eggs**, **syrup**, and **salt** until smooth
 1. Heat **oil** in pan on **medium** heat

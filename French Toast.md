@@ -1,15 +1,15 @@
 # French Toast
 
-* 6 **eggs**
-* 4 Tbsp **sugar** *(+ more for sprinkling)*
-* pinch kosher **salt**
-* pinch **cinnamon**
-* pinch freshly grated **nutmeg**
-* 1⁄4 tsp **vanilla**
-* 2 cups **milk**
-* 2 Tbsp **butter** *(+ more for serving)*
-* 8 slices white **bread** *(1⁄2" thick, brioche is ideal)*
-* **maple syrup**
+- 6 **eggs**
+- 4 Tbsp **sugar** *(+ more for sprinkling)*
+- pinch kosher **salt**
+- pinch **cinnamon**
+- pinch freshly grated **nutmeg**
+- 0.25 tsp **vanilla**
+- 2 cups **milk**
+- 2 Tbsp **butter** *(+ more for serving)*
+- 8 slices white **bread** *(0.5" thick, brioche is ideal)*
+- **maple syrup**
 
 1. Pre-heat oven to **200 °F**
 1. Fresh **bread** only: bake **bread** in single layer for **5 min** per side (**10 min** total)

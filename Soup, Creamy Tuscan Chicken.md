@@ -2,19 +2,19 @@
 
 Ingredients
 
-* 0.5 tsp salt
-* 0.5 tsp pepper
-* 1.5 lbs chicken thighs *(0.5" pieces)*
-* 1/3 cup sun-dried tomatoes *(chopped)*
-* 2 Tbsp olive oil *(divided)*
-* 4 cloves garlic
-* 1 Tbsp tomato paste
-* 1 tsp Italian seasoning
-* 32 oz chicken broth
-* 8 oz cauliflower florets
-* 6 oz fresh spinach
-* 0.5 cup heavy whipping cream
-* 0.5 cup Parmesan cheese *(grated)*
+- 0.5 tsp salt
+- 0.5 tsp pepper
+- 1.5 lbs chicken thighs *(0.5" pieces)*
+- 1/3 cup sun-dried tomatoes *(chopped)*
+- 2 Tbsp olive oil *(divided)*
+- 4 cloves garlic
+- 1 Tbsp tomato paste
+- 1 tsp Italian seasoning
+- 32 oz chicken broth
+- 8 oz cauliflower florets
+- 6 oz fresh spinach
+- 0.5 cup heavy whipping cream
+- 0.5 cup Parmesan cheese *(grated)*
 
 Instructions
 

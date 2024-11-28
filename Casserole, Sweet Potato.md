@@ -2,24 +2,24 @@
 
 Sweet Potatoes
 
-* 2.5 lbs **sweet potatoes** *(peeled and cubed)*
-* **salt**
-* 2 Tbsp **butter**
-* 2 **eggs**
-* 0.25 cup **maple syrup**
-* 0.25 cup **buttermilk**
-* 1/3 cup **milk**
-* 0.5 tsp **vanilla**
-* 0.5 tsp **salt**
-* 1 pinch **allspice**
-* 1 pinch **cayenne**
+- 2.5 lbs **sweet potatoes** *(peeled and cubed)*
+- **salt**
+- 2 Tbsp **butter**
+- 2 **eggs**
+- 0.25 cup **maple syrup**
+- 0.25 cup **buttermilk**
+- 1/3 cup **milk**
+- 0.5 tsp **vanilla**
+- 0.5 tsp **salt**
+- 1 pinch **allspice**
+- 1 pinch **cayenne**
 
 Pistachio Crust
 
-* 0.5 cup **pistachios** *(chopped roasted, salted)*
-* 0.5 cup light **brown sugar**
-* 1/3 cup **flour**
-* 0.25 cup **butter** *(melted)*
+- 0.5 cup **pistachios** *(chopped roasted, salted)*
+- 0.5 cup light **brown sugar**
+- 1/3 cup **flour**
+- 0.25 cup **butter** *(melted)*
 
 Instructions
 

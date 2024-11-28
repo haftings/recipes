@@ -1,14 +1,14 @@
 # Chicken Enchiladas
 
-* **breded chicken chunks**
-* **red onion** *(sliced thin)*
-* 2 **bell peppers** *(sliced thin)*
-* 3 Tbsp **olive oil**
-* 1 tsp **cumin**
-* 1 pk **taco seasoning**
-* 2 cans divided **red enchilada sauce**
-* 3 cups divided **Mexican cheese** *(shredded)*
-* 8 – 10 **tortillas**
+- **breded chicken chunks**
+- **red onion** *(sliced thin)*
+- 2 **bell peppers** *(sliced thin)*
+- 3 Tbsp **olive oil**
+- 1 tsp **cumin**
+- 1 pk **taco seasoning**
+- 2 cans divided **red enchilada sauce**
+- 3 cups divided **Mexican cheese** *(shredded)*
+- 8 – 10 **tortillas**
 
 1. Cook **chicken**, chop into smaller pieces
 1. Pre-heat oven to **350 °F**
