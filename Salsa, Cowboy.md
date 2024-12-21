@@ -1,4 +1,4 @@
-# Salad, Cowboy Caviar
+# Cowboy Salsa
 
 Dressing Ingredients
 
